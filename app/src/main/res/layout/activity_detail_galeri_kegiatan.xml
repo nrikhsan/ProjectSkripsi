@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="@color/background_color"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.activity.DetailGaleriKegiatanActivity"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <com.google.android.material.appbar.MaterialToolbar
+        android:id="@+id/toolbarDetailGaleriKegiatan"
+        android:theme="@style/custom_toolbar_semuanya"
+        app:title="@string/kerja_bakti"
+        app:titleTextColor="@color/white"
+        app:titleTextAppearance="@style/custom_text_toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+    <ImageView
+        android:scaleType="fitXY"
+        android:background="@drawable/kerjabakti1"
+        android:layout_width="match_parent"
+        android:layout_height="240dp"/>
+
+        <ImageView
+            android:background="@color/black_transparent_20"
+            android:layout_width="match_parent"
+            android:layout_height="240dp"/>
+
+    </FrameLayout>
+
+    <TextView
+        android:layout_marginTop="10dp"
+        android:fontFamily="@font/roboto_regular"
+        android:textColor="@color/black"
+        android:text="@string/warga_masyarakat_desa_cibentang_mengadakan_bersih_bersih_jalan_pada_hari_senin_selasa_pada_tanggal_11_juli_2023_di_jalan_desa_yang_melintasi_rt_02_rw_03_desa_cibentang_kecamatan_kramatmulya_kabupaten_kuningan_kegiatan_tersebut_dikomandoi_oleh_ketua_rt_02_rw_03_bapak_haryana_yang_dimulai_pada_pukul_08_30_wib_sampai_dengan_pukul_11_00_wib_beliau_menuturkan_bahwa_dibulan_ini_kegiatan_gotong_royong_membersihkan_jalan_akan_diadakan_setiap_satu_minggu_sekali_guna_mendukung_kelestarian_lingkungan_dan_kebersihan_lingkungan"
+        android:textSize="13sp"
+        android:paddingHorizontal="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <TextView
+        android:layout_marginTop="10dp"
+        android:fontFamily="@font/roboto_regular"
+        android:textColor="@color/black"
+        android:text="@string/kegiatan_membersihkan_jalan_ini_akan_diadakan_setiap_satu_minggu_sekali_pada_bulan_ini_dengan_tujuan_untuk_menjaga_kebersihan_dan_kelestarian_lingkungan_kita_bersama_ujar_ketua_rt_yang_sudah_menjabat_dua_periode_tersebut"
+        android:textSize="13sp"
+        android:paddingHorizontal="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+
+</LinearLayout>

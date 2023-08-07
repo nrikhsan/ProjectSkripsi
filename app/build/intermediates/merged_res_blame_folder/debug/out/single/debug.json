@@ -1,0 +1,438 @@
+[
+    {
+        "merged": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-merged_res-53:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-main-55:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-merged_res-53:\\layout_layout_berita_pencarian.xml.flat",
+        "source": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-main-55:\\layout\\layout_berita_pencarian.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-merged_res-53:\\drawable_bg_button_lembaga.xml.flat",
+        "source": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-main-55:\\drawable\\bg_button_lembaga.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-merged_res-53:\\drawable_pkk.png.flat",
+        "source": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-main-55:\\drawable\\pkk.png"
+    },
+    {
+        "merged": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-merged_res-53:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-main-55:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-merged_res-53:\\drawable_profile.xml.flat",
+        "source": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-main-55:\\drawable\\profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-merged_res-53:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-main-55:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-merged_res-53:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-main-55:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-merged_res-53:\\drawable_bg_pencarian_berita.xml.flat",
+        "source": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-main-55:\\drawable\\bg_pencarian_berita.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-merged_res-53:\\layout_activity_berita_desa.xml.flat",
+        "source": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-main-55:\\layout\\activity_berita_desa.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-merged_res-53:\\layout_layout_kerja_bakti.xml.flat",
+        "source": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-main-55:\\layout\\layout_kerja_bakti.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-merged_res-53:\\drawable_history.xml.flat",
+        "source": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-main-55:\\drawable\\history.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-merged_res-53:\\drawable_perbaikanjalan2.jpg.flat",
+        "source": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-main-55:\\drawable\\perbaikanjalan2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-merged_res-53:\\layout_layout_lembaga_desa.xml.flat",
+        "source": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-main-55:\\layout\\layout_lembaga_desa.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-merged_res-53:\\layout_layout_tabel_anggaran_desa_3.xml.flat",
+        "source": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-main-55:\\layout\\layout_tabel_anggaran_desa_3.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-merged_res-53:\\menu_bottom_nav_menu.xml.flat",
+        "source": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-main-55:\\menu\\bottom_nav_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-merged_res-53:\\drawable_pencarian_berita.xml.flat",
+        "source": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-main-55:\\drawable\\pencarian_berita.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-merged_res-53:\\drawable_lembaga.xml.flat",
+        "source": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-main-55:\\drawable\\lembaga.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-merged_res-53:\\layout_layout_tabel_anggaran_desa_2.xml.flat",
+        "source": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-main-55:\\layout\\layout_tabel_anggaran_desa_2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-merged_res-53:\\drawable_berita_bimbingan_teknis.jpg.flat",
+        "source": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-main-55:\\drawable\\berita_bimbingan_teknis.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-merged_res-53:\\drawable_mui.png.flat",
+        "source": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-main-55:\\drawable\\mui.png"
+    },
+    {
+        "merged": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-merged_res-53:\\drawable_arrow_back.xml.flat",
+        "source": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-main-55:\\drawable\\arrow_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-merged_res-53:\\font_roboto_regular.ttf.flat",
+        "source": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-main-55:\\font\\roboto_regular.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-merged_res-53:\\layout_fragment_foto.xml.flat",
+        "source": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-main-55:\\layout\\fragment_foto.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-merged_res-53:\\drawable_beranda.xml.flat",
+        "source": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-main-55:\\drawable\\beranda.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-merged_res-53:\\drawable_check.xml.flat",
+        "source": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-main-55:\\drawable\\check.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-merged_res-53:\\drawable_perbaikanjalan1.jpg.flat",
+        "source": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-main-55:\\drawable\\perbaikanjalan1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-merged_res-53:\\drawable_agustusan1.jpg.flat",
+        "source": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-main-55:\\drawable\\agustusan1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-merged_res-53:\\drawable_arrow_next_agenda.xml.flat",
+        "source": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-main-55:\\drawable\\arrow_next_agenda.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-merged_res-53:\\layout_card_riwayat_pengaduan.xml.flat",
+        "source": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-main-55:\\layout\\card_riwayat_pengaduan.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-merged_res-53:\\layout_layout_tabel_rt_rw.xml.flat",
+        "source": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-main-55:\\layout\\layout_tabel_rt_rw.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-merged_res-53:\\layout_activity_pengaduan.xml.flat",
+        "source": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-main-55:\\layout\\activity_pengaduan.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-merged_res-53:\\font_roboto_medium.ttf.flat",
+        "source": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-main-55:\\font\\roboto_medium.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-merged_res-53:\\drawable_bg_form_pengaduan.xml.flat",
+        "source": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-main-55:\\drawable\\bg_form_pengaduan.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-merged_res-53:\\layout_fragment_dana_desa.xml.flat",
+        "source": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-main-55:\\layout\\fragment_dana_desa.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-merged_res-53:\\layout_fragment_lembaga.xml.flat",
+        "source": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-main-55:\\layout\\fragment_lembaga.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-merged_res-53:\\drawable_karangtaruna.png.flat",
+        "source": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-main-55:\\drawable\\karangtaruna.png"
+    },
+    {
+        "merged": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-merged_res-53:\\layout_layout_agenda_desa_beranda.xml.flat",
+        "source": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-main-55:\\layout\\layout_agenda_desa_beranda.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-merged_res-53:\\drawable_bg_agenda_desa.xml.flat",
+        "source": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-main-55:\\drawable\\bg_agenda_desa.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-merged_res-53:\\layout_activity_detail_berita_desa.xml.flat",
+        "source": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-main-55:\\layout\\activity_detail_berita_desa.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-merged_res-53:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-main-55:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-merged_res-53:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-main-55:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-merged_res-53:\\layout_layout_berita_beranda.xml.flat",
+        "source": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-main-55:\\layout\\layout_berita_beranda.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-merged_res-53:\\drawable_bg_image_lembaga.xml.flat",
+        "source": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-main-55:\\drawable\\bg_image_lembaga.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-merged_res-53:\\menu_topbar_menu_detail_berita_desa.xml.flat",
+        "source": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-main-55:\\menu\\topbar_menu_detail_berita_desa.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-merged_res-53:\\drawable_kerjabakti1.jpg.flat",
+        "source": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-main-55:\\drawable\\kerjabakti1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-merged_res-53:\\drawable_agustusan2.jpg.flat",
+        "source": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-main-55:\\drawable\\agustusan2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-merged_res-53:\\drawable_ss2.png.flat",
+        "source": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-main-55:\\drawable\\ss2.png"
+    },
+    {
+        "merged": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-merged_res-53:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-main-55:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-merged_res-53:\\layout_layout_berita_halaman_berita_desa.xml.flat",
+        "source": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-main-55:\\layout\\layout_berita_halaman_berita_desa.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-merged_res-53:\\drawable_logodesacibentang.png.flat",
+        "source": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-main-55:\\drawable\\logodesacibentang.png"
+    },
+    {
+        "merged": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-merged_res-53:\\drawable_youtube.png.flat",
+        "source": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-main-55:\\drawable\\youtube.png"
+    },
+    {
+        "merged": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-merged_res-53:\\layout_layout_agustusan.xml.flat",
+        "source": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-main-55:\\layout\\layout_agustusan.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-merged_res-53:\\layout_activity_detail_agenda_desa.xml.flat",
+        "source": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-main-55:\\layout\\activity_detail_agenda_desa.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-merged_res-53:\\layout_fragment_profil_desa.xml.flat",
+        "source": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-main-55:\\layout\\fragment_profil_desa.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-merged_res-53:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-main-55:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-merged_res-53:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-main-55:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-merged_res-53:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-main-55:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-merged_res-53:\\drawable_kerjabakti3.jpg.flat",
+        "source": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-main-55:\\drawable\\kerjabakti3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-merged_res-53:\\drawable_ss1.png.flat",
+        "source": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-main-55:\\drawable\\ss1.png"
+    },
+    {
+        "merged": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-merged_res-53:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-main-55:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-merged_res-53:\\layout_activity_riwayat_pengaduan.xml.flat",
+        "source": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-main-55:\\layout\\activity_riwayat_pengaduan.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-merged_res-53:\\drawable_bg_text_tabel_anggaran_desa.xml.flat",
+        "source": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-main-55:\\drawable\\bg_text_tabel_anggaran_desa.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-merged_res-53:\\drawable_kerja_bakti.jpg.flat",
+        "source": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-main-55:\\drawable\\kerja_bakti.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-merged_res-53:\\layout_layout_agenda_desa.xml.flat",
+        "source": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-main-55:\\layout\\layout_agenda_desa.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-merged_res-53:\\layout_layout_bottom_sheet_riwayat_pengaduan.xml.flat",
+        "source": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-main-55:\\layout\\layout_bottom_sheet_riwayat_pengaduan.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-merged_res-53:\\layout_layout_video_kegiatan.xml.flat",
+        "source": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-main-55:\\layout\\layout_video_kegiatan.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-merged_res-53:\\layout_layout_image_galeri_desa_beranda.xml.flat",
+        "source": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-main-55:\\layout\\layout_image_galeri_desa_beranda.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-merged_res-53:\\drawable_kerjabakti2.jpg.flat",
+        "source": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-main-55:\\drawable\\kerjabakti2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-merged_res-53:\\drawable_dkm.jpg.flat",
+        "source": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-main-55:\\drawable\\dkm.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-merged_res-53:\\layout_card_visi_desa_cibentang.xml.flat",
+        "source": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-main-55:\\layout\\card_visi_desa_cibentang.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-merged_res-53:\\layout_fragment_video.xml.flat",
+        "source": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-main-55:\\layout\\fragment_video.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-merged_res-53:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-main-55:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-merged_res-53:\\layout_layout_perbaikan_jalan.xml.flat",
+        "source": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-main-55:\\layout\\layout_perbaikan_jalan.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-merged_res-53:\\menu_topbar_menu_beranda.xml.flat",
+        "source": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-main-55:\\menu\\topbar_menu_beranda.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-merged_res-53:\\drawable_pkk.jpg.flat",
+        "source": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-main-55:\\drawable\\pkk.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-merged_res-53:\\drawable_musrenbang.jpeg.flat",
+        "source": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-main-55:\\drawable\\musrenbang.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-merged_res-53:\\layout_layout_notifikasi.xml.flat",
+        "source": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-main-55:\\layout\\layout_notifikasi.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-merged_res-53:\\layout_activity_galeri_desa.xml.flat",
+        "source": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-main-55:\\layout\\activity_galeri_desa.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-merged_res-53:\\menu_topbar_menu_pengaduan.xml.flat",
+        "source": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-main-55:\\menu\\topbar_menu_pengaduan.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-merged_res-53:\\layout_activity_detail_lembaga.xml.flat",
+        "source": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-main-55:\\layout\\activity_detail_lembaga.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-merged_res-53:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-main-55:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.projectskripsi.app-merged_res-53:/layout_layout_notifikasi.xml.flat",
+        "source": "com.example.projectskripsi.app-main-55:/layout/layout_notifikasi.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-merged_res-53:\\drawable_ss3.png.flat",
+        "source": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-main-55:\\drawable\\ss3.png"
+    },
+    {
+        "merged": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-merged_res-53:\\navigation_mobile_navigation.xml.flat",
+        "source": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-main-55:\\navigation\\mobile_navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-merged_res-53:\\layout_layout_tabel_anggaran_desa_1.xml.flat",
+        "source": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-main-55:\\layout\\layout_tabel_anggaran_desa_1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-merged_res-53:\\layout_card_misi_desa_cibentang.xml.flat",
+        "source": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-main-55:\\layout\\card_misi_desa_cibentang.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-merged_res-53:\\drawable_kelompoktani.png.flat",
+        "source": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-main-55:\\drawable\\kelompoktani.png"
+    },
+    {
+        "merged": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-merged_res-53:\\drawable_bg_galeri_desa_green_transparent.xml.flat",
+        "source": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-main-55:\\drawable\\bg_galeri_desa_green_transparent.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-merged_res-53:\\color_bottom_nav_selection_color.xml.flat",
+        "source": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-main-55:\\color\\bottom_nav_selection_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-merged_res-53:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-main-55:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-merged_res-53:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-main-55:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-merged_res-53:\\drawable_pengaduan.xml.flat",
+        "source": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-main-55:\\drawable\\pengaduan.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-merged_res-53:\\drawable_dana_desa.xml.flat",
+        "source": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-main-55:\\drawable\\dana_desa.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-merged_res-53:\\drawable_pengobatan.jpg.flat",
+        "source": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-main-55:\\drawable\\pengobatan.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-merged_res-53:\\drawable_petadesa.png.flat",
+        "source": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-main-55:\\drawable\\petadesa.png"
+    },
+    {
+        "merged": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-merged_res-53:\\drawable_notifications.xml.flat",
+        "source": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-main-55:\\drawable\\notifications.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-merged_res-53:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-main-55:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-merged_res-53:\\layout_activity_detail_galeri_kegiatan.xml.flat",
+        "source": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-main-55:\\layout\\activity_detail_galeri_kegiatan.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-merged_res-53:\\layout_activity_agenda_desa.xml.flat",
+        "source": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-main-55:\\layout\\activity_agenda_desa.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-merged_res-53:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-main-55:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-merged_res-53:\\layout_fragment_beranda.xml.flat",
+        "source": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-main-55:\\layout\\fragment_beranda.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-merged_res-53:\\drawable_share.xml.flat",
+        "source": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-main-55:\\drawable\\share.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-merged_res-53:\\layout_activity_pencarian_berita.xml.flat",
+        "source": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-main-55:\\layout\\activity_pencarian_berita.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-merged_res-53:\\drawable_agustusan3.jpg.flat",
+        "source": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-main-55:\\drawable\\agustusan3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-merged_res-53:\\drawable_perbaikanjalan3.jpg.flat",
+        "source": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-main-55:\\drawable\\perbaikanjalan3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-merged_res-53:\\mipmap-hdpi_cibentang.png.flat",
+        "source": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-main-55:\\mipmap-hdpi\\cibentang.png"
+    },
+    {
+        "merged": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-merged_res-53:\\drawable_kepaladesa.png.flat",
+        "source": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-main-55:\\drawable\\kepaladesa.png"
+    },
+    {
+        "merged": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-merged_res-53:\\drawable_bpd2.png.flat",
+        "source": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-main-55:\\drawable\\bpd2.png"
+    }
+]

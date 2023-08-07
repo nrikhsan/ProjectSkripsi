@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:paddingHorizontal="10dp">
+
+    <GridLayout
+        android:id="@+id/grid1"
+        android:layout_centerHorizontal="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:columnCount="3"
+        android:rowCount="1">
+
+        <TextView
+            android:layout_width="80dp"
+            android:layout_height="wrap_content"
+            android:background="@drawable/bg_text_tabel_anggaran_desa"
+            android:fontFamily="@font/roboto_medium"
+            android:paddingHorizontal="10dp"
+            android:paddingVertical="10dp"
+            android:text="@string/kode_rek"
+            android:textAlignment="center"
+            android:textColor="@color/black"
+            android:textSize="13sp" />
+
+        <TextView
+            android:layout_width="145dp"
+            android:layout_height="wrap_content"
+            android:background="@drawable/bg_text_tabel_anggaran_desa"
+            android:fontFamily="@font/roboto_medium"
+            android:paddingHorizontal="10dp"
+            android:paddingVertical="10dp"
+            android:text="@string/uraian"
+            android:textAlignment="center"
+            android:textColor="@color/black"
+            android:textSize="13sp" />
+
+        <TextView
+            android:layout_width="110dp"
+            android:layout_height="wrap_content"
+            android:background="@drawable/bg_text_tabel_anggaran_desa"
+            android:fontFamily="@font/roboto_medium"
+            android:paddingHorizontal="10dp"
+            android:paddingVertical="10dp"
+            android:text="@string/anggaran"
+            android:textAlignment="center"
+            android:textColor="@color/black"
+            android:textSize="13sp" />
+
+    </GridLayout>
+
+        <RelativeLayout
+            android:id="@+id/relativ1"
+            android:layout_centerHorizontal="true"
+            android:layout_below="@id/grid1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <LinearLayout
+                android:id="@+id/layout1"
+                android:layout_width="80dp"
+                android:layout_height="110dp"
+                android:background="@drawable/bg_text_tabel_anggaran_desa"
+                android:orientation="vertical"
+                android:paddingVertical="5dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:fontFamily="@font/roboto_medium"
+                    android:text="@string/_4"
+                    android:textColor="@color/black"
+                    android:textSize="15sp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginTop="5dp"
+                    android:fontFamily="@font/roboto_regular"
+                    android:text="@string/_4_1"
+                    android:textColor="@color/black"
+                    android:textSize="13sp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginTop="5dp"
+                    android:fontFamily="@font/roboto_regular"
+                    android:text="@string/_4_2"
+                    android:textColor="@color/black"
+                    android:textSize="13sp" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/layout2"
+                android:paddingHorizontal="5dp"
+                android:layout_toEndOf="@id/layout1"
+                android:layout_width="145dp"
+                android:layout_height="75dp"
+                android:background="@drawable/bg_text_tabel_anggaran_desa"
+                android:orientation="vertical"
+                android:paddingVertical="5dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="@font/roboto_medium"
+                    android:text="@string/pendapatan"
+                    android:textColor="@color/black"
+                    android:textSize="15sp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="5dp"
+                    android:fontFamily="@font/roboto_regular"
+                    android:text="@string/pendapatan_asli_desa"
+                    android:textColor="@color/black"
+                    android:textSize="13sp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="5dp"
+                    android:fontFamily="@font/roboto_regular"
+                    android:text="@string/pendapatan_transfer"
+                    android:textColor="@color/black"
+                    android:textSize="13sp" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/layout3"
+                android:layout_toEndOf="@id/layout2"
+                android:layout_width="110dp"
+                android:layout_height="75dp"
+                android:paddingHorizontal="5dp"
+                android:background="@drawable/bg_text_tabel_anggaran_desa"
+                android:orientation="vertical"
+                android:paddingVertical="5dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="25dp"
+                    android:fontFamily="@font/roboto_regular"
+                    android:text="@string/_141_800_000_00"
+                    android:textColor="@color/black"
+                    android:textSize="13sp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="5dp"
+                    android:fontFamily="@font/roboto_regular"
+                    android:text="@string/_1_283_259_508_00"
+                    android:textColor="@color/black"
+                    android:textSize="13sp" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/layout4"
+                android:paddingHorizontal="5dp"
+                android:background="@drawable/bg_text_tabel_anggaran_desa"
+                android:orientation="horizontal"
+                android:layout_below="@id/layout2"
+                android:layout_toEndOf="@id/layout1"
+                android:layout_width="255dp"
+                android:layout_height="35dp">
+
+                <TextView
+                    android:textSize="13sp"
+                    android:layout_gravity="center_vertical"
+                    android:fontFamily="@font/roboto_medium"
+                    android:textColor="@color/black"
+                    android:text="@string/jumlah_pendapatan"
+                    android:layout_weight="1"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"/>
+
+                <TextView
+                    android:layout_marginStart="10dp"
+                    android:textSize="13sp"
+                    android:layout_gravity="center_vertical"
+                    android:fontFamily="@font/roboto_medium"
+                    android:textColor="@color/black"
+                    android:text="@string/_1_425_059_508_00"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"/>
+
+            </LinearLayout>
+
+        </RelativeLayout>
+
+
+
+
+
+</RelativeLayout>

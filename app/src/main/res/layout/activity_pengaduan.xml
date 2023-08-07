@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:orientation="vertical"
+    android:background="@color/background_color"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.activity.PengaduanActivity"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <com.google.android.material.appbar.MaterialToolbar
+        android:id="@+id/toolbarPengaduan"
+        android:theme="@style/custom_toolbar_pengaduan"
+        app:title="Form Pengaduan"
+        app:titleTextAppearance="@style/custom_text_toolbar"
+        app:titleTextColor="@color/white"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+
+    <EditText
+        android:id="@+id/edtNIK"
+        android:layout_marginTop="20dp"
+        android:layout_marginStart="10dp"
+        android:fontFamily="@font/roboto_regular"
+        android:hint="@string/masukan_no_nik_anda"
+        android:textSize="13sp"
+        android:textColorHint="@color/grey"
+        android:paddingHorizontal="10dp"
+        android:paddingVertical="5dp"
+        android:background="@drawable/bg_form_pengaduan"
+        android:layout_width="240dp"
+        android:layout_height="40dp"/>
+
+    <EditText
+        android:id="@+id/edtCatatan"
+        android:layout_marginTop="20dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginEnd="10dp"
+        android:fontFamily="@font/roboto_regular"
+        android:hint="@string/masukan_catatan_pengaduan_anda"
+        android:textSize="13sp"
+        android:textColorHint="@color/grey"
+        android:paddingVertical="10dp"
+        android:paddingHorizontal="10dp"
+        android:background="@drawable/bg_form_pengaduan"
+        android:layout_width="match_parent"
+        android:layout_height="280dp"/>
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/btnKirimPengaduan"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="30dp"
+        android:text="@string/kirim_pengaduan"
+        android:textAllCaps="false"
+        app:cornerRadius="10sp"
+        android:fontFamily="@font/roboto_regular"
+        android:textSize="12sp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+
+</LinearLayout>

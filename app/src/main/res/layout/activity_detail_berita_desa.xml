@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background_color"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".ui.activity.DetailBeritaDesaActivity">
+
+    <com.google.android.material.appbar.MaterialToolbar
+        android:id="@+id/toolbarDetailberitaDesa"
+        android:theme="@style/custom_toolbar_detail_berita_desa"
+        app:title="@string/bimbingan_teknis_pelatihan_website_desa"
+        app:titleTextAppearance="@style/custom_text_toolbar"
+        app:titleTextColor="@color/white"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <androidx.core.widget.NestedScrollView
+        android:layout_below="@id/toolbarDetailberitaDesa"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <FrameLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+            <ImageView
+                android:scaleType="fitXY"
+                android:background="@drawable/berita_bimbingan_teknis"
+                android:layout_width="match_parent"
+                android:layout_height="250dp"/>
+
+                <ImageView
+                    android:background="@color/black_transparent_15"
+                    android:layout_width="match_parent"
+                    android:layout_height="250dp"/>
+
+            </FrameLayout>
+
+            <TextView
+                android:layout_marginStart="10dp"
+                android:layout_marginTop="10dp"
+                android:fontFamily="@font/roboto_medium"
+                android:textSize="18sp"
+                android:textColor="@color/black"
+                android:text="@string/bimbingan_teknis_pelatihan_website_desa"
+                android:layout_width="300dp"
+                android:layout_height="match_parent"/>
+
+            <TextView
+                android:layout_marginStart="10dp"
+                android:layout_marginTop="10dp"
+                android:fontFamily="@font/roboto_regular"
+                android:textSize="13sp"
+                android:textColor="@color/grey"
+                android:text="@string/jum_at_26_mei_2023"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"/>
+
+            <TextView
+                android:layout_marginStart="10dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginEnd="10dp"
+                android:fontFamily="@font/roboto_regular"
+                android:textSize="13sp"
+                android:textColor="@color/black"
+                android:text="@string/lorem_ipsum_dolor_sit_amet_consectetur_adipisicing_elit_accusantium_laborum_in_inventore_libero_quam_deleniti_ad_quibusdam_illum_repellendus_sed_voluptatibus_autem_provident_facere_molestiae_cum_dolorem_nulla_veritatis_consequuntur_dicta_unde_officia_cumque_reiciendis_dolorum_totam_sapiente_animi_quaerat_veritatis_dignissimos_consequuntur_temporibus_magnam_impedit_similique_quaerat_quasi_ullam_facilis_eveniet_non_rerum_quod_accusamus_doloremque_fugit_voluptas_labore_sed_harum_corrupti_vitae_hic_debitis_minima_voluptates_aut_quam_temporibus_ipsa_culpa_delectus"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"/>
+
+            <TextView
+                android:layout_marginStart="10dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginEnd="10dp"
+                android:fontFamily="@font/roboto_regular"
+                android:textSize="13sp"
+                android:textColor="@color/black"
+                android:text="@string/ratione_aliquid_quod_aperiam_laudantium_atque_rem_ab_facilis_praesentium_nulla_ipsam_quos_at_sint_hic_corporis_maxime_debitis_excepturi_reprehenderit_molestias_facere_quaerat_veritatis_fugiat_nisi_voluptate_deserunt_perspiciatis_dolores_inventore_possimus_eum_odit_ex_placeat_harum_nostrum_facere_dolor_libero_recusandae_repudiandae_sed_sint_asperiores_cum_corporis_impedit_at_soluta_autem_laborum_labore_dolore_perspiciatis_corrupti_mollitia_optio_repellat_maxime_quisquam_harum_non_similique_perspiciatis_sapiente_odit_blanditiis_officiis_quidem_ratione_ipsa_enim_id_vel_sed_error_quos_veritatis_ipsam_blanditiis_dolore_ab_tempore_atque_cupiditate_labore_quaerat_distinctio_perferendis_perspiciatis_veniam_omnis_asperiores_sunt_veritatis_culpa_consequuntur_deserunt"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"/>
+
+            <TextView
+                android:layout_marginStart="10dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginEnd="10dp"
+                android:layout_marginBottom="10dp"
+                android:fontFamily="@font/roboto_regular"
+                android:textSize="13sp"
+                android:textColor="@color/black"
+                android:text="@string/molestiae_ullam_vel_autem_enim_at_alias_iure_perferendis_tenetur_eius_possimus_minima_laboriosam_omnis_qui_ipsum_quae_modi_laborum_nam_cumque_voluptate_quod_ut_placeat_officia_sequi_magnam_laboriosam_voluptate_molestiae_reprehenderit_eaque_explicabo_cum_ea_nulla_voluptates_tempore_totam_magni_ducimus_adipisci_illo_molestiae_et_odio_a_debitis_numquam_eveniet_quia_beatae_ut_quos_cum_nihil_nulla_alias_ea_culpa_omnis_nisi_facere_fugiat_aspernatur_at_similique_a_quidem_aperiam_labore_cupiditate_quis_eaque_nesciunt_repudiandae_magnam_ipsam_facilis_totam_iure_facere_aliquam_velit_corporis_enim_modi_iste_nihil_soluta_debitis_quibusdam_culpa_error_rem_illum_mollitia_provident_incidunt_molestias_maxime_voluptatibus_quisquam_sed_et_in_corporis_error_aliquam_odio_saepe_laboriosam_quidem_accusamus_nemo_nulla_quasi_quisquam_maxime_inventore_consequuntur_perspiciatis_cum"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"/>
+
+        </LinearLayout>
+
+    </androidx.core.widget.NestedScrollView>
+
+</RelativeLayout>

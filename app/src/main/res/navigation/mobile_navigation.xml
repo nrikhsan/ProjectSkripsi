@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_beranda">
+
+    <fragment
+        android:id="@+id/navigation_beranda"
+        android:name="com.example.projectskripsi.ui.fragment.beranda.FragmentBeranda"
+        android:label="@string/beranda"
+        tools:layout="@layout/fragment_beranda" />
+
+    <fragment
+        android:id="@+id/navigation_dana_desa"
+        android:name="com.example.projectskripsi.ui.fragment.danadesa.FragmentDanaDesa"
+        android:label="@string/dana_desa"
+        tools:layout="@layout/fragment_dana_desa" />
+
+    <fragment
+        android:id="@+id/navigation_lembaga"
+        android:name="com.example.projectskripsi.ui.fragment.lembaga.FragmentLembaga"
+        android:label="@string/lembaga"
+        tools:layout="@layout/fragment_lembaga" />
+
+    <fragment
+        android:id="@+id/navigation_profil_desa"
+        android:name="com.example.projectskripsi.ui.fragment.profildesa.FragmentProfilDesa"
+        android:label="@string/profil_desa"
+        tools:layout="@layout/fragment_profil_desa" />
+
+</navigation>

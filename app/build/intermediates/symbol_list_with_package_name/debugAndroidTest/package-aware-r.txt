@@ -1,0 +1,3 @@
+com.example.projectskripsi.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme

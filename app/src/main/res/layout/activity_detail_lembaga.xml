@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background_color"
+    tools:context=".ui.activity.DetailLembagaActivity"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <com.google.android.material.appbar.MaterialToolbar
+        android:id="@+id/toolbarDetailLembaga"
+        android:theme="@style/custom_toolbar_semuanya"
+        android:layout_width="match_parent"
+        app:title="Badan Permusyawaratan Desa"
+        app:titleTextAppearance="@style/custom_text_toolbar"
+        app:titleTextColor="@color/white"
+        android:layout_height="wrap_content"/>
+
+    <androidx.core.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_marginBottom="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <ImageView
+                android:layout_marginTop="30dp"
+                android:src="@drawable/bpd2"
+                android:scaleType="fitXY"
+                android:layout_gravity="center_horizontal"
+                android:layout_width="200dp"
+                android:layout_height="200dp"/>
+
+            <TextView
+                android:layout_marginStart="10dp"
+                android:layout_marginEnd="10dp"
+                android:layout_marginTop="30dp"
+                android:textSize="13sp"
+                android:textColor="@color/black"
+                android:fontFamily="@font/roboto_regular"
+                android:text="@string/badan_permusyawaratan_desa_bpd_adalah_salah_satu_organ_yang_menyelenggarakan_fungsi_pemerintahan_desa_organ_ini_adalah_penyelenggara_musyawarah_desa_pasal_1_angka_4_uu_desa_menyebutkan_bpd_atau_yang_disebut_dengan_nama_lain_adalah_lembaga_yang_melaksanakan_fungsi_pemerintahan_yang_anggotanya_merupakan_wakil_dari_penduduk_desa_berdasarkan_keterwakilan_wilayah_dan_ditetapkan_secara_demokratis_materi_mengenai_bpd_yang_diatur_dalam_uu_ini_meliputi_fungsi_keanggotaan_hak_dan_kewajiban_larangan_dan_mekanisme_pengambilan_keputusan"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"/>
+
+            <TextView
+                android:layout_marginStart="10dp"
+                android:layout_marginEnd="10dp"
+                android:layout_marginTop="10dp"
+                android:textSize="13sp"
+                android:textColor="@color/black"
+                android:fontFamily="@font/roboto_regular"
+                android:text="@string/anggota_bpd_ialah_wakil_dari_penduduk_desa_bersangkutan_berdasarkan_keterwakilan_wilayah_yang_ditetapkan_dengan_cara_musyawarah_dan_mufakat_aanggota_bpd_terdiri_dari_ketua_rukun_warga_pemangku_adat_golongan_profesi_pemuka_agama_dan_tokoh_atau_pemuka_masyarakat_lainnya_masa_jabatan_anggota_bpd_ialah_6_tahun_dan_dapat_diangkut_diusulkan_kembali_untuk_satu_kali_masa_jabatan_berikutnya_pimpinan_dan_anggota_bpd_tidak_diperbolehkan_merangkap_jabatan_sebagai_kapala_desa_dan_perangkat_desa"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"/>
+
+            <TextView
+                android:layout_marginStart="10dp"
+                android:layout_marginEnd="10dp"
+                android:layout_marginTop="10dp"
+                android:textSize="13sp"
+                android:textColor="@color/black"
+                android:fontFamily="@font/roboto_regular"
+                android:text="@string/u2022_ketua_ibad_darusalam_n_u2022_wakil_yudi_n_u2022_sekretaris_siti_maryam_n_u2022_anggota_tatang_sutardi_karnaen"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"/>
+
+
+        </LinearLayout>
+
+
+    </androidx.core.widget.NestedScrollView>
+
+
+</LinearLayout>

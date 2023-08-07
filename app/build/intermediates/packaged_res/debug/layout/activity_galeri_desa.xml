@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:background="@color/background_color"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.activity.GaleriDesaActivity">
+
+    <com.google.android.material.appbar.MaterialToolbar
+        android:id="@+id/toolbarGaleriDesa"
+        app:title="Galeri Kegiatan Desa"
+        app:titleTextAppearance="@style/custom_text_toolbar"
+        app:titleTextColor="@color/white"
+        android:theme="@style/custom_toolbar_galeri_desa"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <com.google.android.material.tabs.TabLayout
+        android:id="@+id/tabLayoutGaleriDesa"
+        android:background="@color/background_color"
+        app:tabMode="fixed"
+        app:tabTextColor="@color/grey"
+        app:tabTextAppearance="@style/custom_text_tab_layout"
+        app:tabSelectedTextColor="@color/green"
+        app:tabIndicatorFullWidth="false"
+        app:tabIndicatorColor="@color/green"
+        app:tabIndicatorHeight="2.5dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <androidx.viewpager2.widget.ViewPager2
+        android:id="@+id/viewPagerGaleriDesa"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+
+</LinearLayout>

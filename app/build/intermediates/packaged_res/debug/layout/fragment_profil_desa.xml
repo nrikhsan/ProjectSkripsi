@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="@color/background_color"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.fragment.profildesa.FragmentProfilDesa"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbarLembagaDesa"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/green">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:text="@string/kepala_desa_amp_profil_desa"
+            android:textAppearance="@style/custom_text_toolbar"
+            android:textColor="@color/white" />
+
+    </androidx.appcompat.widget.Toolbar>
+
+
+    <androidx.core.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <RelativeLayout
+                android:paddingHorizontal="20dp"
+                android:layout_marginTop="20dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+
+                <androidx.cardview.widget.CardView
+                    android:id="@+id/imgKades"
+                    android:layout_width="60dp"
+                    android:layout_height="70dp"
+                    app:cardCornerRadius="10dp">
+
+                    <ImageView
+                        android:background="@drawable/kepaladesa"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"/>
+
+                </androidx.cardview.widget.CardView>
+
+
+                <TextView
+                    android:id="@+id/tvKepaladesa"
+                    android:layout_marginTop="15dp"
+                    android:text="@string/yuyun_yulianingsih"
+                    android:fontFamily="@font/roboto_medium"
+                    android:textSize="18sp"
+                    android:layout_marginStart="20dp"
+                    android:textColor="@color/green"
+                    android:layout_toEndOf="@id/imgKades"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"/>
+
+
+                <TextView
+                    android:id="@+id/tvJabatan"
+                    android:layout_marginTop="2dp"
+                    android:textAllCaps="true"
+                    android:text="@string/kepala_desa"
+                    android:fontFamily="@font/roboto_medium"
+                    android:textSize="12sp"
+                    android:layout_marginStart="20dp"
+                    android:textColor="@color/grey"
+                    android:layout_toEndOf="@id/imgKades"
+                    android:layout_below="@id/tvKepaladesa"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"/>
+
+                <View
+                    android:layout_marginTop="5dp"
+                    android:background="@color/grey"
+                    android:layout_marginStart="20dp"
+                    android:layout_toEndOf="@id/imgKades"
+                    android:layout_below="@id/tvJabatan"
+                    android:layout_width="227dp"
+                    android:layout_height="1dp"/>
+
+            </RelativeLayout>
+
+
+            <TextView
+                android:layout_marginTop="20dp"
+                android:layout_marginStart="10dp"
+                android:fontFamily="@font/roboto_medium"
+                android:textSize="18sp"
+                android:textColor="@color/black"
+                android:text="@string/deskripsi_singkat"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+
+            <TextView
+                android:layout_marginTop="10dp"
+                android:textAlignment="textStart"
+                android:fontFamily="@font/roboto_regular"
+                android:textSize="13sp"
+                android:textColor="@color/black"
+                android:layout_marginStart="10dp"
+                android:layout_marginEnd="10dp"
+                android:text="@string/desa_cibentang_kecamatan_kramatmulya_kabupaten_kuningan_secara_geografis_terletak_di_110_48190_bt_dan_terletak_di_7_100762_ls_secara_topografi_desa_cibentang_termasuk_dalam_kategori_daerah_dataran_rendah_dengan_ketinggian_50_meter_dari_permukaan_laut_mdpl"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+
+            <TextView
+                android:layout_marginStart="10dp"
+                android:layout_marginEnd="10dp"
+                android:layout_marginTop="10dp"
+                android:textColor="@color/black"
+                android:textSize="13sp"
+                android:fontFamily="@font/roboto_regular"
+                android:text="@string/adapun_batas_batas_wilayah_desa_cibentang_kecamatan_kramatmulya_kabupaten_kuningan_adalah_sebagai_berikut_sebagaimana_disajikan_pada_gambar_2_1_berikut_ini_n_u2022_sebelah_utara_desa_gandasoli_kec_kramatmulya_n_u2022_sebelah_timur_desa_kalapagunung_kec_kramatmulya_n_u2022_sebelah_selatan_desa_ragawacana_kec_kramatmulya_n_u2022_sebelah_barat_desa_gandasoli_kec_kramatmulya"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+
+            <TextView
+                android:layout_marginTop="20dp"
+                android:layout_marginStart="10dp"
+                android:fontFamily="@font/roboto_medium"
+                android:textSize="18sp"
+                android:textColor="@color/black"
+                android:text="@string/visi_amp_misi_desa_cibentang"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+
+            <include layout="@layout/card_visi_desa_cibentang"/>
+
+            <include layout="@layout/card_misi_desa_cibentang"/>
+
+            <TextView
+                android:layout_marginTop="20dp"
+                android:layout_marginStart="10dp"
+                android:fontFamily="@font/roboto_medium"
+                android:textSize="18sp"
+                android:textColor="@color/black"
+                android:text="@string/luas_wilayah"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+
+            <TextView
+                android:layout_marginStart="10dp"
+                android:layout_marginEnd="10dp"
+                android:layout_marginTop="10dp"
+                android:textColor="@color/black"
+                android:textSize="13sp"
+                android:fontFamily="@font/roboto_regular"
+                android:text="@string/adapun_luas_wilayah_desa_cibentang_adalah_53_130_ha_yang_terdiri_dari_n_u2022_tanah_sawah_irigasi_18_919_ha_n_u2022_tanah_pekarangan_rumah_28_211_ha_n_u2022_jalan_kuburan_dan_lain_lain_6_ha"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+
+            <TextView
+                android:layout_marginStart="10dp"
+                android:layout_marginEnd="10dp"
+                android:layout_marginTop="10dp"
+                android:textColor="@color/black"
+                android:textSize="13sp"
+                android:fontFamily="@font/roboto_regular"
+                android:text="@string/terkait_dengan_administrasi_pemerintahan_wilayah_desa_cibentang_terbagi_ke_dalam_wilayah_dusun_rw_dan_rt_adapun_jumlah_dusun_rw_dan_rt_sebagaimana_tercantum_dalam_tabel_berikut_ini"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+
+            <include layout="@layout/layout_tabel_rt_rw"/>
+
+
+            <TextView
+                android:layout_marginTop="20dp"
+                android:layout_marginStart="10dp"
+                android:fontFamily="@font/roboto_medium"
+                android:textSize="18sp"
+                android:textColor="@color/black"
+                android:text="@string/peta_desa"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+
+
+            <androidx.cardview.widget.CardView
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="10dp"
+                android:layout_gravity="center_horizontal"
+                app:cardCornerRadius="10dp"
+                android:layout_width="match_parent"
+                android:layout_marginStart="10dp"
+                android:layout_marginEnd="10dp"
+                app:cardElevation="4dp"
+                android:layout_height="226dp">
+
+                <FrameLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <ImageView
+                        android:background="@drawable/petadesa"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"/>
+
+                    <ImageView
+                        android:background="@color/black_transparent_15"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"/>
+
+
+                   <com.google.android.material.button.MaterialButton
+                       android:id="@+id/btnMaps"
+                       app:cornerRadius="10dp"
+                       app:strokeColor="@color/grey"
+                       app:strokeWidth="1dp"
+                       android:textAllCaps="false"
+                       android:textSize="13sp"
+                       android:fontFamily="@font/roboto_regular"
+                       android:text="@string/buka_google_maps"
+                       app:backgroundTint="@color/blue_transparent"
+                       android:layout_gravity="center"
+                       android:layout_width="wrap_content"
+                       android:layout_height="60dp"/>
+
+                </FrameLayout>
+
+            </androidx.cardview.widget.CardView>
+
+        </LinearLayout>
+
+    </androidx.core.widget.NestedScrollView>
+
+
+</LinearLayout>

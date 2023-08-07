@@ -1,0 +1,755 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\ProjectSkripsi\app\src\main\AndroidManifest.xml:2:1-98:12
+INJECTED from F:\ProjectSkripsi\app\src\main\AndroidManifest.xml:2:1-98:12
+INJECTED from F:\ProjectSkripsi\app\src\main\AndroidManifest.xml:2:1-98:12
+INJECTED from F:\ProjectSkripsi\app\src\main\AndroidManifest.xml:2:1-98:12
+MERGED from [androidx.databinding:viewbinding:8.0.2] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\2762a465c89ef24b8c19c3427e06da73\transformed\viewbinding-8.0.2\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-common:2.6.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\5b343c8b76f5de36afbdaa46ebed28b7\transformed\navigation-common-2.6.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.6.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\5a2a99c7e9703057a0d9f2d3adcd92a9\transformed\navigation-common-ktx-2.6.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime:2.6.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\f820aeb0fef11ad043afc742c50cf79c\transformed\navigation-runtime-2.6.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.6.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\dbf2866a0e73835519f960eab3440f10\transformed\navigation-runtime-ktx-2.6.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-fragment:2.6.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\1964c8d2a8e5e1a95cb0eca929de57b9\transformed\navigation-fragment-2.6.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.6.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\3ef7ff18dc8831369d8dafba2d1dd22f\transformed\navigation-fragment-ktx-2.6.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-ui-ktx:2.6.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\ce78cb220da09c405abf5bc23c85605d\transformed\navigation-ui-ktx-2.6.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-ui:2.6.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\a805709b57a57d6f6a9b5d7824948070\transformed\navigation-ui-2.6.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.material:material:1.9.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\40b8ddf3d0503b1f081393aea090cb52\transformed\material-1.9.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\653e87de863fbb43458a559902b06c08\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\b570036a1bca767bed6fa2e3798c12f7\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\954dbd874e6a83c1fb71b33f5146850f\transformed\appcompat-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\30a153a853ad459786d3636e3f92a798\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\0120842986cee815a05f2a1d518bbbab\transformed\emoji2-1.2.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\c58d17742cd72823ba8b0f2888eb3285\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\9bf76a703864680368d4080273122461\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\21f8eabca409b8894d4dcc064d8f2b30\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\1dc944002ba5f2708827c6f2dd948e09\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\8b08ecd40e43c148b6bffe2e46e63b9b\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\1cbae4c12bd6ec4d4ef875e58aaa49b6\transformed\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-database:20.1.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\28d488829ff15e5f9f38676c84dcfda0\transformed\firebase-database-20.1.0\AndroidManifest.xml:15:1-37:12
+MERGED from [com.google.firebase:firebase-messaging:23.1.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\5b28a588bfcae4e1d846d8fa7377ad40\transformed\firebase-messaging-23.1.0\AndroidManifest.xml:17:1-61:12
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.1.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\4a3774eed490239bbddfb78ff6d1defe\transformed\firebase-appcheck-interop-16.1.0\AndroidManifest.xml:15:1-25:12
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\8f34542176269fdb47050890e42448aa\transformed\firebase-database-collection-18.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\640494a1eb71e07041df009a5231cae6\transformed\play-services-base-18.0.1\AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.2] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\f8b85c33427fae27aff90ed093e706d3\transformed\firebase-auth-interop-19.0.2\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-datatransport:18.1.7] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\e0195fe8a3d2007dc3cac1dea554c531\transformed\firebase-datatransport-18.1.7\AndroidManifest.xml:15:1-33:12
+MERGED from [com.google.firebase:firebase-installations:17.1.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\2fc1d418023c2f37cbf82f00212f7a18\transformed\firebase-installations-17.1.0\AndroidManifest.xml:2:1-23:12
+MERGED from [com.google.firebase:firebase-common:20.2.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\7b9e1ecb22d5d65bf7a2fdd510abe3ac\transformed\firebase-common-20.2.0\AndroidManifest.xml:15:1-39:12
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\2b6bb17616cd1dfb3b6afd67173ee000\transformed\play-services-cloud-messaging-17.0.1\AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\aae8f836391d5057ea7f70e004e76ded\transformed\firebase-iid-interop-17.1.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-installations-interop:17.1.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\863c9610b82a78f8bfce84579245180b\transformed\firebase-installations-interop-17.1.0\AndroidManifest.xml:15:1-22:12
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\756537d0bcb30ef9ecfcd2ea2c690d66\transformed\play-services-tasks-18.0.1\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\4ad5e265ea3554a114ea26c4c4b832f3\transformed\play-services-stats-17.0.2\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\f27fa82ebc58c1b25354e8fec1a1d285\transformed\firebase-measurement-connector-19.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\67093be977bcd20b2da7579a4a2b8bd2\transformed\play-services-basement-18.1.0\AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment-ktx:1.6.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\ba2d593721a742c01f01cfba094100a9\transformed\fragment-ktx-1.6.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.6.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\234e55a95f7bec1247684d95aa9c8a7a\transformed\fragment-1.6.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.6.1] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\8395129837475e1f6c42ab186adbbd4c\transformed\activity-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity-ktx:1.6.1] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\d045f4c0fa9282b4d2d5686c05d257ec\transformed\activity-ktx-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\d1039c8156ed50e010eb9e384691c9dc\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\84aa90b1ddf5eaf18c188d1c5b7a73fa\transformed\savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.1] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\6692e16d1375d038c0651d9a07dcc7a8\transformed\lifecycle-runtime-ktx-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\79fe47fd48b22ca053eab88ba32b9460\transformed\lifecycle-livedata-core-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\5230cd85341fc71f3a92fc327a0f82ab\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.6.1] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\fbbb615ccf08f9cb84f1faae2dc39497\transformed\lifecycle-livedata-core-ktx-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\d7174e283a06645096589f6b150b2901\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\2c0cb8f1a4e19d3475734bbb73772219\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\e94129946cfc28a5a4c0f88c2b3b1554\transformed\lifecycle-livedata-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\95a6d4a9a064d18a85e1f8248180236d\transformed\lifecycle-viewmodel-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\6fd91894a5ecc792399dbf2490f16b97\transformed\lifecycle-viewmodel-savedstate-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\825893c9d5bf2d84dc569cddd8de163d\transformed\core-ktx-1.9.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\7e1b835111c24f2cff728e8a2789e08b\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\471a0e5fd29a42f3fc1518c890ba1cf0\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\9ee7bb6c8dea8877cacfc6e152d6e9c2\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\8dba69d43e4d70be79914bd388652638\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.4.1] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\3787384b6dd331af620661788a23f40f\transformed\transition-1.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.window:window:1.0.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\16e8d08a14d4e3392a844b470c33cd7a\transformed\window-1.0.0\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.core:core:1.9.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\c1c65b990fd1f509002c889b0ad26955\transformed\core-1.9.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\6e0ae3edba4f111287ac0f2dbfb3ef26\transformed\lifecycle-runtime-2.6.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.6.1] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\60b3d202c4dd799a3a763ac56c69f371\transformed\lifecycle-livedata-ktx-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.1] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\a91ff3ee1ed8b384f874de8be2843085\transformed\lifecycle-viewmodel-ktx-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\f5cabf25d9e83d07451c08f90aadaa73\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\1aaf061ac9001bea93f7726d9d4d5fca\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-components:17.0.1] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\02df9cba586f3a39d5612d68b77005f8\transformed\firebase-components-17.0.1\AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.8] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\ceee3ce462fc71d0ef606425104643a8\transformed\transport-backend-cct-3.1.8\AndroidManifest.xml:15:1-37:12
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.8] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\cde95c5bbfe8fc3171952bac4bc649be\transformed\transport-runtime-3.1.8\AndroidManifest.xml:15:1-41:12
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\4d71ba8b912838f790f46163f4c9cd2e\transformed\transport-api-3.0.0\AndroidManifest.xml:15:1-22:12
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\0126dbd8528318818a95129cfc2b71e1\transformed\firebase-encoders-json-18.0.0\AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\897e48a89f233b1cbf692480a5cc439b\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\50b5a1e36d1a4d5dd49578131d9b1e4f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\78646807f3316bd3a32feee7ec3b9220\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\ad1c65df4182269c2b67b642d4dac345\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\36f1aa68397c93a6a44a834ffc8d3de4\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\c5698f0c9bca6c52247618919fd3b49a\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\704075f122a0d312430d00d48e3140b7\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\4997bc189fee204bcb710331c15b9274\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\8a93d295755f8e5da86d32d4f3dc8a94\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\5de4d28702108e18d6d297caf72e644b\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:17:1-22:12
+INJECTED from F:\ProjectSkripsi\app\src\main\AndroidManifest.xml:2:1-98:12
+INJECTED from F:\ProjectSkripsi\app\src\main\AndroidManifest.xml:2:1-98:12
+INJECTED from F:\ProjectSkripsi\app\src\main\AndroidManifest.xml:2:1-98:12
+	package
+		INJECTED from F:\ProjectSkripsi\app\src\main\AndroidManifest.xml
+		ADDED from F:\ProjectSkripsi\app\src\main\AndroidManifest.xml:2:1-98:12
+		INJECTED from F:\ProjectSkripsi\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from F:\ProjectSkripsi\app\src\main\AndroidManifest.xml
+		ADDED from F:\ProjectSkripsi\app\src\main\AndroidManifest.xml:2:1-98:12
+		INJECTED from F:\ProjectSkripsi\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from F:\ProjectSkripsi\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from F:\ProjectSkripsi\app\src\main\AndroidManifest.xml
+		ADDED from F:\ProjectSkripsi\app\src\main\AndroidManifest.xml:2:1-98:12
+		INJECTED from F:\ProjectSkripsi\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\ProjectSkripsi\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from F:\ProjectSkripsi\app\src\main\AndroidManifest.xml:5:5-67
+MERGED from [com.google.firebase:firebase-database:20.1.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\28d488829ff15e5f9f38676c84dcfda0\transformed\firebase-database-20.1.0\AndroidManifest.xml:25:5-67
+MERGED from [com.google.firebase:firebase-database:20.1.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\28d488829ff15e5f9f38676c84dcfda0\transformed\firebase-database-20.1.0\AndroidManifest.xml:25:5-67
+MERGED from [com.google.firebase:firebase-installations:17.1.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\2fc1d418023c2f37cbf82f00212f7a18\transformed\firebase-installations-17.1.0\AndroidManifest.xml:10:5-67
+MERGED from [com.google.firebase:firebase-installations:17.1.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\2fc1d418023c2f37cbf82f00212f7a18\transformed\firebase-installations-17.1.0\AndroidManifest.xml:10:5-67
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\2b6bb17616cd1dfb3b6afd67173ee000\transformed\play-services-cloud-messaging-17.0.1\AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\2b6bb17616cd1dfb3b6afd67173ee000\transformed\play-services-cloud-messaging-17.0.1\AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.8] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\ceee3ce462fc71d0ef606425104643a8\transformed\transport-backend-cct-3.1.8\AndroidManifest.xml:25:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.8] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\ceee3ce462fc71d0ef606425104643a8\transformed\transport-backend-cct-3.1.8\AndroidManifest.xml:25:5-67
+	android:name
+		ADDED from F:\ProjectSkripsi\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from F:\ProjectSkripsi\app\src\main\AndroidManifest.xml:7:5-96:19
+MERGED from [com.google.android.material:material:1.9.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\40b8ddf3d0503b1f081393aea090cb52\transformed\material-1.9.0\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.material:material:1.9.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\40b8ddf3d0503b1f081393aea090cb52\transformed\material-1.9.0\AndroidManifest.xml:24:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\653e87de863fbb43458a559902b06c08\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\653e87de863fbb43458a559902b06c08\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\0120842986cee815a05f2a1d518bbbab\transformed\emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\0120842986cee815a05f2a1d518bbbab\transformed\emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [com.google.firebase:firebase-database:20.1.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\28d488829ff15e5f9f38676c84dcfda0\transformed\firebase-database-20.1.0\AndroidManifest.xml:27:5-35:19
+MERGED from [com.google.firebase:firebase-database:20.1.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\28d488829ff15e5f9f38676c84dcfda0\transformed\firebase-database-20.1.0\AndroidManifest.xml:27:5-35:19
+MERGED from [com.google.firebase:firebase-messaging:23.1.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\5b28a588bfcae4e1d846d8fa7377ad40\transformed\firebase-messaging-23.1.0\AndroidManifest.xml:30:5-59:19
+MERGED from [com.google.firebase:firebase-messaging:23.1.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\5b28a588bfcae4e1d846d8fa7377ad40\transformed\firebase-messaging-23.1.0\AndroidManifest.xml:30:5-59:19
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.1.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\4a3774eed490239bbddfb78ff6d1defe\transformed\firebase-appcheck-interop-16.1.0\AndroidManifest.xml:23:5-20
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.1.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\4a3774eed490239bbddfb78ff6d1defe\transformed\firebase-appcheck-interop-16.1.0\AndroidManifest.xml:23:5-20
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\640494a1eb71e07041df009a5231cae6\transformed\play-services-base-18.0.1\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\640494a1eb71e07041df009a5231cae6\transformed\play-services-base-18.0.1\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.2] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\f8b85c33427fae27aff90ed093e706d3\transformed\firebase-auth-interop-19.0.2\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.2] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\f8b85c33427fae27aff90ed093e706d3\transformed\firebase-auth-interop-19.0.2\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-datatransport:18.1.7] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\e0195fe8a3d2007dc3cac1dea554c531\transformed\firebase-datatransport-18.1.7\AndroidManifest.xml:23:5-31:19
+MERGED from [com.google.firebase:firebase-datatransport:18.1.7] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\e0195fe8a3d2007dc3cac1dea554c531\transformed\firebase-datatransport-18.1.7\AndroidManifest.xml:23:5-31:19
+MERGED from [com.google.firebase:firebase-installations:17.1.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\2fc1d418023c2f37cbf82f00212f7a18\transformed\firebase-installations-17.1.0\AndroidManifest.xml:13:5-21:19
+MERGED from [com.google.firebase:firebase-installations:17.1.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\2fc1d418023c2f37cbf82f00212f7a18\transformed\firebase-installations-17.1.0\AndroidManifest.xml:13:5-21:19
+MERGED from [com.google.firebase:firebase-common:20.2.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\7b9e1ecb22d5d65bf7a2fdd510abe3ac\transformed\firebase-common-20.2.0\AndroidManifest.xml:24:5-37:19
+MERGED from [com.google.firebase:firebase-common:20.2.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\7b9e1ecb22d5d65bf7a2fdd510abe3ac\transformed\firebase-common-20.2.0\AndroidManifest.xml:24:5-37:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\aae8f836391d5057ea7f70e004e76ded\transformed\firebase-iid-interop-17.1.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\aae8f836391d5057ea7f70e004e76ded\transformed\firebase-iid-interop-17.1.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\756537d0bcb30ef9ecfcd2ea2c690d66\transformed\play-services-tasks-18.0.1\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\756537d0bcb30ef9ecfcd2ea2c690d66\transformed\play-services-tasks-18.0.1\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\4ad5e265ea3554a114ea26c4c4b832f3\transformed\play-services-stats-17.0.2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\4ad5e265ea3554a114ea26c4c4b832f3\transformed\play-services-stats-17.0.2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\f27fa82ebc58c1b25354e8fec1a1d285\transformed\firebase-measurement-connector-19.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\f27fa82ebc58c1b25354e8fec1a1d285\transformed\firebase-measurement-connector-19.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\67093be977bcd20b2da7579a4a2b8bd2\transformed\play-services-basement-18.1.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\67093be977bcd20b2da7579a4a2b8bd2\transformed\play-services-basement-18.1.0\AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\5230cd85341fc71f3a92fc327a0f82ab\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\5230cd85341fc71f3a92fc327a0f82ab\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.window:window:1.0.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\16e8d08a14d4e3392a844b470c33cd7a\transformed\window-1.0.0\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\16e8d08a14d4e3392a844b470c33cd7a\transformed\window-1.0.0\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.core:core:1.9.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\c1c65b990fd1f509002c889b0ad26955\transformed\core-1.9.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.9.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\c1c65b990fd1f509002c889b0ad26955\transformed\core-1.9.0\AndroidManifest.xml:28:5-89
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.8] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\ceee3ce462fc71d0ef606425104643a8\transformed\transport-backend-cct-3.1.8\AndroidManifest.xml:27:5-35:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.8] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\ceee3ce462fc71d0ef606425104643a8\transformed\transport-backend-cct-3.1.8\AndroidManifest.xml:27:5-35:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.8] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\cde95c5bbfe8fc3171952bac4bc649be\transformed\transport-runtime-3.1.8\AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.8] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\cde95c5bbfe8fc3171952bac4bc649be\transformed\transport-runtime-3.1.8\AndroidManifest.xml:25:5-39:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\897e48a89f233b1cbf692480a5cc439b\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\897e48a89f233b1cbf692480a5cc439b\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\50b5a1e36d1a4d5dd49578131d9b1e4f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\50b5a1e36d1a4d5dd49578131d9b1e4f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\78646807f3316bd3a32feee7ec3b9220\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\78646807f3316bd3a32feee7ec3b9220\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.9.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\c1c65b990fd1f509002c889b0ad26955\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from F:\ProjectSkripsi\app\src\main\AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from F:\ProjectSkripsi\app\src\main\AndroidManifest.xml:12:9-41
+	android:fullBackupContent
+		ADDED from F:\ProjectSkripsi\app\src\main\AndroidManifest.xml:10:9-54
+	android:roundIcon
+		ADDED from F:\ProjectSkripsi\app\src\main\AndroidManifest.xml:13:9-46
+	tools:targetApi
+		ADDED from F:\ProjectSkripsi\app\src\main\AndroidManifest.xml:16:9-29
+	android:icon
+		ADDED from F:\ProjectSkripsi\app\src\main\AndroidManifest.xml:11:9-41
+	android:allowBackup
+		ADDED from F:\ProjectSkripsi\app\src\main\AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from F:\ProjectSkripsi\app\src\main\AndroidManifest.xml:15:9-52
+	android:dataExtractionRules
+		ADDED from F:\ProjectSkripsi\app\src\main\AndroidManifest.xml:9:9-65
+meta-data#com.google.firebase.messaging.default_notification_icon
+ADDED from F:\ProjectSkripsi\app\src\main\AndroidManifest.xml:18:9-20:58
+	android:resource
+		ADDED from F:\ProjectSkripsi\app\src\main\AndroidManifest.xml:20:13-55
+	android:name
+		ADDED from F:\ProjectSkripsi\app\src\main\AndroidManifest.xml:19:13-83
+meta-data#com.google.firebase.messaging.default_notification_color
+ADDED from F:\ProjectSkripsi\app\src\main\AndroidManifest.xml:21:9-23:47
+	android:resource
+		ADDED from F:\ProjectSkripsi\app\src\main\AndroidManifest.xml:23:13-44
+	android:name
+		ADDED from F:\ProjectSkripsi\app\src\main\AndroidManifest.xml:22:13-84
+activity#com.example.projectskripsi.ui.activity.DetailLembagaActivity
+ADDED from F:\ProjectSkripsi\app\src\main\AndroidManifest.xml:25:9-29:55
+	android:screenOrientation
+		ADDED from F:\ProjectSkripsi\app\src\main\AndroidManifest.xml:28:13-49
+	android:exported
+		ADDED from F:\ProjectSkripsi\app\src\main\AndroidManifest.xml:27:13-37
+	tools:ignore
+		ADDED from F:\ProjectSkripsi\app\src\main\AndroidManifest.xml:29:13-53
+	android:name
+		ADDED from F:\ProjectSkripsi\app\src\main\AndroidManifest.xml:26:13-62
+activity#com.example.projectskripsi.ui.activity.DetailGaleriKegiatanActivity
+ADDED from F:\ProjectSkripsi\app\src\main\AndroidManifest.xml:31:9-35:55
+	android:screenOrientation
+		ADDED from F:\ProjectSkripsi\app\src\main\AndroidManifest.xml:34:13-49
+	android:exported
+		ADDED from F:\ProjectSkripsi\app\src\main\AndroidManifest.xml:33:13-37
+	tools:ignore
+		ADDED from F:\ProjectSkripsi\app\src\main\AndroidManifest.xml:35:13-53
+	android:name
+		ADDED from F:\ProjectSkripsi\app\src\main\AndroidManifest.xml:32:13-69
+activity#com.example.projectskripsi.ui.activity.GaleriDesaActivity
+ADDED from F:\ProjectSkripsi\app\src\main\AndroidManifest.xml:36:9-40:55
+	android:screenOrientation
+		ADDED from F:\ProjectSkripsi\app\src\main\AndroidManifest.xml:39:13-49
+	android:exported
+		ADDED from F:\ProjectSkripsi\app\src\main\AndroidManifest.xml:38:13-37
+	tools:ignore
+		ADDED from F:\ProjectSkripsi\app\src\main\AndroidManifest.xml:40:13-53
+	android:name
+		ADDED from F:\ProjectSkripsi\app\src\main\AndroidManifest.xml:37:13-59
+activity#com.example.projectskripsi.ui.activity.AgendaDesaActivity
+ADDED from F:\ProjectSkripsi\app\src\main\AndroidManifest.xml:41:9-45:55
+	android:screenOrientation
+		ADDED from F:\ProjectSkripsi\app\src\main\AndroidManifest.xml:44:13-49
+	android:exported
+		ADDED from F:\ProjectSkripsi\app\src\main\AndroidManifest.xml:43:13-37
+	tools:ignore
+		ADDED from F:\ProjectSkripsi\app\src\main\AndroidManifest.xml:45:13-53
+	android:name
+		ADDED from F:\ProjectSkripsi\app\src\main\AndroidManifest.xml:42:13-59
+activity#com.example.projectskripsi.ui.activity.DetailAgendaDesaActivity
+ADDED from F:\ProjectSkripsi\app\src\main\AndroidManifest.xml:46:9-50:55
+	android:screenOrientation
+		ADDED from F:\ProjectSkripsi\app\src\main\AndroidManifest.xml:49:13-49
+	android:exported
+		ADDED from F:\ProjectSkripsi\app\src\main\AndroidManifest.xml:48:13-37
+	tools:ignore
+		ADDED from F:\ProjectSkripsi\app\src\main\AndroidManifest.xml:50:13-53
+	android:name
+		ADDED from F:\ProjectSkripsi\app\src\main\AndroidManifest.xml:47:13-65
+activity#com.example.projectskripsi.ui.activity.DetailBeritaDesaActivity
+ADDED from F:\ProjectSkripsi\app\src\main\AndroidManifest.xml:51:9-55:55
+	android:screenOrientation
+		ADDED from F:\ProjectSkripsi\app\src\main\AndroidManifest.xml:54:13-49
+	android:exported
+		ADDED from F:\ProjectSkripsi\app\src\main\AndroidManifest.xml:53:13-37
+	tools:ignore
+		ADDED from F:\ProjectSkripsi\app\src\main\AndroidManifest.xml:55:13-53
+	android:name
+		ADDED from F:\ProjectSkripsi\app\src\main\AndroidManifest.xml:52:13-65
+activity#com.example.projectskripsi.ui.activity.BeritaDesaActivity
+ADDED from F:\ProjectSkripsi\app\src\main\AndroidManifest.xml:56:9-60:55
+	android:screenOrientation
+		ADDED from F:\ProjectSkripsi\app\src\main\AndroidManifest.xml:59:13-49
+	android:exported
+		ADDED from F:\ProjectSkripsi\app\src\main\AndroidManifest.xml:58:13-37
+	tools:ignore
+		ADDED from F:\ProjectSkripsi\app\src\main\AndroidManifest.xml:60:13-53
+	android:name
+		ADDED from F:\ProjectSkripsi\app\src\main\AndroidManifest.xml:57:13-59
+activity#com.example.projectskripsi.ui.activity.RiwayatPengaduanActivity
+ADDED from F:\ProjectSkripsi\app\src\main\AndroidManifest.xml:61:9-65:55
+	android:screenOrientation
+		ADDED from F:\ProjectSkripsi\app\src\main\AndroidManifest.xml:64:13-49
+	android:exported
+		ADDED from F:\ProjectSkripsi\app\src\main\AndroidManifest.xml:63:13-37
+	tools:ignore
+		ADDED from F:\ProjectSkripsi\app\src\main\AndroidManifest.xml:65:13-53
+	android:name
+		ADDED from F:\ProjectSkripsi\app\src\main\AndroidManifest.xml:62:13-65
+activity#com.example.projectskripsi.ui.activity.PengaduanActivity
+ADDED from F:\ProjectSkripsi\app\src\main\AndroidManifest.xml:66:9-70:55
+	android:screenOrientation
+		ADDED from F:\ProjectSkripsi\app\src\main\AndroidManifest.xml:69:13-49
+	android:exported
+		ADDED from F:\ProjectSkripsi\app\src\main\AndroidManifest.xml:68:13-37
+	tools:ignore
+		ADDED from F:\ProjectSkripsi\app\src\main\AndroidManifest.xml:70:13-53
+	android:name
+		ADDED from F:\ProjectSkripsi\app\src\main\AndroidManifest.xml:67:13-58
+activity#com.example.projectskripsi.ui.activity.PencarianBeritaActivity
+ADDED from F:\ProjectSkripsi\app\src\main\AndroidManifest.xml:71:9-75:55
+	android:screenOrientation
+		ADDED from F:\ProjectSkripsi\app\src\main\AndroidManifest.xml:74:13-49
+	android:exported
+		ADDED from F:\ProjectSkripsi\app\src\main\AndroidManifest.xml:73:13-37
+	tools:ignore
+		ADDED from F:\ProjectSkripsi\app\src\main\AndroidManifest.xml:75:13-53
+	android:name
+		ADDED from F:\ProjectSkripsi\app\src\main\AndroidManifest.xml:72:13-64
+activity#com.example.projectskripsi.ui.activity.MainActivity
+ADDED from F:\ProjectSkripsi\app\src\main\AndroidManifest.xml:76:9-87:20
+	android:screenOrientation
+		ADDED from F:\ProjectSkripsi\app\src\main\AndroidManifest.xml:79:13-49
+	android:exported
+		ADDED from F:\ProjectSkripsi\app\src\main\AndroidManifest.xml:78:13-36
+	tools:ignore
+		ADDED from F:\ProjectSkripsi\app\src\main\AndroidManifest.xml:80:13-53
+	android:name
+		ADDED from F:\ProjectSkripsi\app\src\main\AndroidManifest.xml:77:13-53
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from F:\ProjectSkripsi\app\src\main\AndroidManifest.xml:82:13-86:29
+action#android.intent.action.MAIN
+ADDED from F:\ProjectSkripsi\app\src\main\AndroidManifest.xml:83:17-69
+	android:name
+		ADDED from F:\ProjectSkripsi\app\src\main\AndroidManifest.xml:83:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\ProjectSkripsi\app\src\main\AndroidManifest.xml:85:17-77
+	android:name
+		ADDED from F:\ProjectSkripsi\app\src\main\AndroidManifest.xml:85:27-74
+service#com.example.projectskripsi.utils.MyFirebaseMessagingService
+ADDED from F:\ProjectSkripsi\app\src\main\AndroidManifest.xml:89:9-95:19
+	android:exported
+		ADDED from F:\ProjectSkripsi\app\src\main\AndroidManifest.xml:91:13-37
+	android:name
+		ADDED from F:\ProjectSkripsi\app\src\main\AndroidManifest.xml:90:13-61
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from F:\ProjectSkripsi\app\src\main\AndroidManifest.xml:92:13-94:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from F:\ProjectSkripsi\app\src\main\AndroidManifest.xml:93:17-78
+	android:name
+		ADDED from F:\ProjectSkripsi\app\src\main\AndroidManifest.xml:93:25-75
+uses-sdk
+INJECTED from F:\ProjectSkripsi\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from F:\ProjectSkripsi\app\src\main\AndroidManifest.xml
+INJECTED from F:\ProjectSkripsi\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:8.0.2] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\2762a465c89ef24b8c19c3427e06da73\transformed\viewbinding-8.0.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:8.0.2] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\2762a465c89ef24b8c19c3427e06da73\transformed\viewbinding-8.0.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-common:2.6.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\5b343c8b76f5de36afbdaa46ebed28b7\transformed\navigation-common-2.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common:2.6.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\5b343c8b76f5de36afbdaa46ebed28b7\transformed\navigation-common-2.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.6.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\5a2a99c7e9703057a0d9f2d3adcd92a9\transformed\navigation-common-ktx-2.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.6.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\5a2a99c7e9703057a0d9f2d3adcd92a9\transformed\navigation-common-ktx-2.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.6.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\f820aeb0fef11ad043afc742c50cf79c\transformed\navigation-runtime-2.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.6.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\f820aeb0fef11ad043afc742c50cf79c\transformed\navigation-runtime-2.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.6.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\dbf2866a0e73835519f960eab3440f10\transformed\navigation-runtime-ktx-2.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.6.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\dbf2866a0e73835519f960eab3440f10\transformed\navigation-runtime-ktx-2.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment:2.6.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\1964c8d2a8e5e1a95cb0eca929de57b9\transformed\navigation-fragment-2.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment:2.6.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\1964c8d2a8e5e1a95cb0eca929de57b9\transformed\navigation-fragment-2.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.6.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\3ef7ff18dc8831369d8dafba2d1dd22f\transformed\navigation-fragment-ktx-2.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.6.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\3ef7ff18dc8831369d8dafba2d1dd22f\transformed\navigation-fragment-ktx-2.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-ui-ktx:2.6.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\ce78cb220da09c405abf5bc23c85605d\transformed\navigation-ui-ktx-2.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-ui-ktx:2.6.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\ce78cb220da09c405abf5bc23c85605d\transformed\navigation-ui-ktx-2.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-ui:2.6.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\a805709b57a57d6f6a9b5d7824948070\transformed\navigation-ui-2.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-ui:2.6.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\a805709b57a57d6f6a9b5d7824948070\transformed\navigation-ui-2.6.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.9.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\40b8ddf3d0503b1f081393aea090cb52\transformed\material-1.9.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.9.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\40b8ddf3d0503b1f081393aea090cb52\transformed\material-1.9.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\653e87de863fbb43458a559902b06c08\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\653e87de863fbb43458a559902b06c08\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\b570036a1bca767bed6fa2e3798c12f7\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\b570036a1bca767bed6fa2e3798c12f7\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\954dbd874e6a83c1fb71b33f5146850f\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\954dbd874e6a83c1fb71b33f5146850f\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\30a153a853ad459786d3636e3f92a798\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\30a153a853ad459786d3636e3f92a798\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\0120842986cee815a05f2a1d518bbbab\transformed\emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\0120842986cee815a05f2a1d518bbbab\transformed\emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\c58d17742cd72823ba8b0f2888eb3285\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\c58d17742cd72823ba8b0f2888eb3285\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\9bf76a703864680368d4080273122461\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\9bf76a703864680368d4080273122461\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\21f8eabca409b8894d4dcc064d8f2b30\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\21f8eabca409b8894d4dcc064d8f2b30\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\1dc944002ba5f2708827c6f2dd948e09\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\1dc944002ba5f2708827c6f2dd948e09\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\8b08ecd40e43c148b6bffe2e46e63b9b\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\8b08ecd40e43c148b6bffe2e46e63b9b\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\1cbae4c12bd6ec4d4ef875e58aaa49b6\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\1cbae4c12bd6ec4d4ef875e58aaa49b6\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-database:20.1.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\28d488829ff15e5f9f38676c84dcfda0\transformed\firebase-database-20.1.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-database:20.1.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\28d488829ff15e5f9f38676c84dcfda0\transformed\firebase-database-20.1.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-messaging:23.1.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\5b28a588bfcae4e1d846d8fa7377ad40\transformed\firebase-messaging-23.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-messaging:23.1.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\5b28a588bfcae4e1d846d8fa7377ad40\transformed\firebase-messaging-23.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.1.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\4a3774eed490239bbddfb78ff6d1defe\transformed\firebase-appcheck-interop-16.1.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.1.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\4a3774eed490239bbddfb78ff6d1defe\transformed\firebase-appcheck-interop-16.1.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\8f34542176269fdb47050890e42448aa\transformed\firebase-database-collection-18.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\8f34542176269fdb47050890e42448aa\transformed\firebase-database-collection-18.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\640494a1eb71e07041df009a5231cae6\transformed\play-services-base-18.0.1\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\640494a1eb71e07041df009a5231cae6\transformed\play-services-base-18.0.1\AndroidManifest.xml:18:5-43
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.2] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\f8b85c33427fae27aff90ed093e706d3\transformed\firebase-auth-interop-19.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.2] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\f8b85c33427fae27aff90ed093e706d3\transformed\firebase-auth-interop-19.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-datatransport:18.1.7] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\e0195fe8a3d2007dc3cac1dea554c531\transformed\firebase-datatransport-18.1.7\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-datatransport:18.1.7] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\e0195fe8a3d2007dc3cac1dea554c531\transformed\firebase-datatransport-18.1.7\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-installations:17.1.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\2fc1d418023c2f37cbf82f00212f7a18\transformed\firebase-installations-17.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-installations:17.1.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\2fc1d418023c2f37cbf82f00212f7a18\transformed\firebase-installations-17.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-common:20.2.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\7b9e1ecb22d5d65bf7a2fdd510abe3ac\transformed\firebase-common-20.2.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-common:20.2.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\7b9e1ecb22d5d65bf7a2fdd510abe3ac\transformed\firebase-common-20.2.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\2b6bb17616cd1dfb3b6afd67173ee000\transformed\play-services-cloud-messaging-17.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\2b6bb17616cd1dfb3b6afd67173ee000\transformed\play-services-cloud-messaging-17.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\aae8f836391d5057ea7f70e004e76ded\transformed\firebase-iid-interop-17.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.1.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\aae8f836391d5057ea7f70e004e76ded\transformed\firebase-iid-interop-17.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-installations-interop:17.1.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\863c9610b82a78f8bfce84579245180b\transformed\firebase-installations-interop-17.1.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-installations-interop:17.1.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\863c9610b82a78f8bfce84579245180b\transformed\firebase-installations-interop-17.1.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\756537d0bcb30ef9ecfcd2ea2c690d66\transformed\play-services-tasks-18.0.1\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\756537d0bcb30ef9ecfcd2ea2c690d66\transformed\play-services-tasks-18.0.1\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\4ad5e265ea3554a114ea26c4c4b832f3\transformed\play-services-stats-17.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\4ad5e265ea3554a114ea26c4c4b832f3\transformed\play-services-stats-17.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\f27fa82ebc58c1b25354e8fec1a1d285\transformed\firebase-measurement-connector-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\f27fa82ebc58c1b25354e8fec1a1d285\transformed\firebase-measurement-connector-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\67093be977bcd20b2da7579a4a2b8bd2\transformed\play-services-basement-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\67093be977bcd20b2da7579a4a2b8bd2\transformed\play-services-basement-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment-ktx:1.6.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\ba2d593721a742c01f01cfba094100a9\transformed\fragment-ktx-1.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment-ktx:1.6.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\ba2d593721a742c01f01cfba094100a9\transformed\fragment-ktx-1.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.6.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\234e55a95f7bec1247684d95aa9c8a7a\transformed\fragment-1.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.6.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\234e55a95f7bec1247684d95aa9c8a7a\transformed\fragment-1.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.6.1] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\8395129837475e1f6c42ab186adbbd4c\transformed\activity-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.6.1] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\8395129837475e1f6c42ab186adbbd4c\transformed\activity-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.6.1] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\d045f4c0fa9282b4d2d5686c05d257ec\transformed\activity-ktx-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.6.1] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\d045f4c0fa9282b4d2d5686c05d257ec\transformed\activity-ktx-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\d1039c8156ed50e010eb9e384691c9dc\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\d1039c8156ed50e010eb9e384691c9dc\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\84aa90b1ddf5eaf18c188d1c5b7a73fa\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\84aa90b1ddf5eaf18c188d1c5b7a73fa\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.1] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\6692e16d1375d038c0651d9a07dcc7a8\transformed\lifecycle-runtime-ktx-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.1] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\6692e16d1375d038c0651d9a07dcc7a8\transformed\lifecycle-runtime-ktx-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\79fe47fd48b22ca053eab88ba32b9460\transformed\lifecycle-livedata-core-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\79fe47fd48b22ca053eab88ba32b9460\transformed\lifecycle-livedata-core-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\5230cd85341fc71f3a92fc327a0f82ab\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\5230cd85341fc71f3a92fc327a0f82ab\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.6.1] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\fbbb615ccf08f9cb84f1faae2dc39497\transformed\lifecycle-livedata-core-ktx-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.6.1] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\fbbb615ccf08f9cb84f1faae2dc39497\transformed\lifecycle-livedata-core-ktx-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\d7174e283a06645096589f6b150b2901\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\d7174e283a06645096589f6b150b2901\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\2c0cb8f1a4e19d3475734bbb73772219\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\2c0cb8f1a4e19d3475734bbb73772219\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\e94129946cfc28a5a4c0f88c2b3b1554\transformed\lifecycle-livedata-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\e94129946cfc28a5a4c0f88c2b3b1554\transformed\lifecycle-livedata-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\95a6d4a9a064d18a85e1f8248180236d\transformed\lifecycle-viewmodel-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\95a6d4a9a064d18a85e1f8248180236d\transformed\lifecycle-viewmodel-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\6fd91894a5ecc792399dbf2490f16b97\transformed\lifecycle-viewmodel-savedstate-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\6fd91894a5ecc792399dbf2490f16b97\transformed\lifecycle-viewmodel-savedstate-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\825893c9d5bf2d84dc569cddd8de163d\transformed\core-ktx-1.9.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\825893c9d5bf2d84dc569cddd8de163d\transformed\core-ktx-1.9.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\7e1b835111c24f2cff728e8a2789e08b\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\7e1b835111c24f2cff728e8a2789e08b\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\471a0e5fd29a42f3fc1518c890ba1cf0\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\471a0e5fd29a42f3fc1518c890ba1cf0\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\9ee7bb6c8dea8877cacfc6e152d6e9c2\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\9ee7bb6c8dea8877cacfc6e152d6e9c2\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\8dba69d43e4d70be79914bd388652638\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\8dba69d43e4d70be79914bd388652638\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\3787384b6dd331af620661788a23f40f\transformed\transition-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\3787384b6dd331af620661788a23f40f\transformed\transition-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\16e8d08a14d4e3392a844b470c33cd7a\transformed\window-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\16e8d08a14d4e3392a844b470c33cd7a\transformed\window-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.9.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\c1c65b990fd1f509002c889b0ad26955\transformed\core-1.9.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.9.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\c1c65b990fd1f509002c889b0ad26955\transformed\core-1.9.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\6e0ae3edba4f111287ac0f2dbfb3ef26\transformed\lifecycle-runtime-2.6.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\6e0ae3edba4f111287ac0f2dbfb3ef26\transformed\lifecycle-runtime-2.6.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.6.1] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\60b3d202c4dd799a3a763ac56c69f371\transformed\lifecycle-livedata-ktx-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.6.1] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\60b3d202c4dd799a3a763ac56c69f371\transformed\lifecycle-livedata-ktx-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.1] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\a91ff3ee1ed8b384f874de8be2843085\transformed\lifecycle-viewmodel-ktx-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.1] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\a91ff3ee1ed8b384f874de8be2843085\transformed\lifecycle-viewmodel-ktx-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\f5cabf25d9e83d07451c08f90aadaa73\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\f5cabf25d9e83d07451c08f90aadaa73\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\1aaf061ac9001bea93f7726d9d4d5fca\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\1aaf061ac9001bea93f7726d9d4d5fca\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-components:17.0.1] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\02df9cba586f3a39d5612d68b77005f8\transformed\firebase-components-17.0.1\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:17.0.1] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\02df9cba586f3a39d5612d68b77005f8\transformed\firebase-components-17.0.1\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.8] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\ceee3ce462fc71d0ef606425104643a8\transformed\transport-backend-cct-3.1.8\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.8] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\ceee3ce462fc71d0ef606425104643a8\transformed\transport-backend-cct-3.1.8\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.8] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\cde95c5bbfe8fc3171952bac4bc649be\transformed\transport-runtime-3.1.8\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.8] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\cde95c5bbfe8fc3171952bac4bc649be\transformed\transport-runtime-3.1.8\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\4d71ba8b912838f790f46163f4c9cd2e\transformed\transport-api-3.0.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:3.0.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\4d71ba8b912838f790f46163f4c9cd2e\transformed\transport-api-3.0.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\0126dbd8528318818a95129cfc2b71e1\transformed\firebase-encoders-json-18.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\0126dbd8528318818a95129cfc2b71e1\transformed\firebase-encoders-json-18.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\897e48a89f233b1cbf692480a5cc439b\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\897e48a89f233b1cbf692480a5cc439b\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\50b5a1e36d1a4d5dd49578131d9b1e4f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\50b5a1e36d1a4d5dd49578131d9b1e4f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\78646807f3316bd3a32feee7ec3b9220\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\78646807f3316bd3a32feee7ec3b9220\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\ad1c65df4182269c2b67b642d4dac345\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\ad1c65df4182269c2b67b642d4dac345\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\36f1aa68397c93a6a44a834ffc8d3de4\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\36f1aa68397c93a6a44a834ffc8d3de4\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\c5698f0c9bca6c52247618919fd3b49a\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\c5698f0c9bca6c52247618919fd3b49a\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\704075f122a0d312430d00d48e3140b7\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\704075f122a0d312430d00d48e3140b7\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\4997bc189fee204bcb710331c15b9274\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\4997bc189fee204bcb710331c15b9274\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\8a93d295755f8e5da86d32d4f3dc8a94\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\8a93d295755f8e5da86d32d4f3dc8a94\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\5de4d28702108e18d6d297caf72e644b\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\5de4d28702108e18d6d297caf72e644b\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+INJECTED from F:\ProjectSkripsi\app\src\main\AndroidManifest.xml
+INJECTED from F:\ProjectSkripsi\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from F:\ProjectSkripsi\app\src\main\AndroidManifest.xml
+		ADDED from F:\ProjectSkripsi\app\src\main\AndroidManifest.xml
+		INJECTED from F:\ProjectSkripsi\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from F:\ProjectSkripsi\app\src\main\AndroidManifest.xml
+		ADDED from F:\ProjectSkripsi\app\src\main\AndroidManifest.xml
+		INJECTED from F:\ProjectSkripsi\app\src\main\AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\0120842986cee815a05f2a1d518bbbab\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\5230cd85341fc71f3a92fc327a0f82ab\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\5230cd85341fc71f3a92fc327a0f82ab\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\50b5a1e36d1a4d5dd49578131d9b1e4f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\50b5a1e36d1a4d5dd49578131d9b1e4f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\78646807f3316bd3a32feee7ec3b9220\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\78646807f3316bd3a32feee7ec3b9220\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\0120842986cee815a05f2a1d518bbbab\transformed\emoji2-1.2.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\0120842986cee815a05f2a1d518bbbab\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\0120842986cee815a05f2a1d518bbbab\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\0120842986cee815a05f2a1d518bbbab\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\0120842986cee815a05f2a1d518bbbab\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\0120842986cee815a05f2a1d518bbbab\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\0120842986cee815a05f2a1d518bbbab\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-database:20.1.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\28d488829ff15e5f9f38676c84dcfda0\transformed\firebase-database-20.1.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-messaging:23.1.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\5b28a588bfcae4e1d846d8fa7377ad40\transformed\firebase-messaging-23.1.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-messaging:23.1.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\5b28a588bfcae4e1d846d8fa7377ad40\transformed\firebase-messaging-23.1.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-installations:17.1.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\2fc1d418023c2f37cbf82f00212f7a18\transformed\firebase-installations-17.1.0\AndroidManifest.xml:9:5-79
+MERGED from [com.google.firebase:firebase-installations:17.1.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\2fc1d418023c2f37cbf82f00212f7a18\transformed\firebase-installations-17.1.0\AndroidManifest.xml:9:5-79
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\2b6bb17616cd1dfb3b6afd67173ee000\transformed\play-services-cloud-messaging-17.0.1\AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\2b6bb17616cd1dfb3b6afd67173ee000\transformed\play-services-cloud-messaging-17.0.1\AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.8] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\ceee3ce462fc71d0ef606425104643a8\transformed\transport-backend-cct-3.1.8\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:3.1.8] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\ceee3ce462fc71d0ef606425104643a8\transformed\transport-backend-cct-3.1.8\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.8] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\cde95c5bbfe8fc3171952bac4bc649be\transformed\transport-runtime-3.1.8\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.8] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\cde95c5bbfe8fc3171952bac4bc649be\transformed\transport-runtime-3.1.8\AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-database:20.1.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\28d488829ff15e5f9f38676c84dcfda0\transformed\firebase-database-20.1.0\AndroidManifest.xml:24:22-76
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-database:20.1.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\28d488829ff15e5f9f38676c84dcfda0\transformed\firebase-database-20.1.0\AndroidManifest.xml:28:9-34:19
+MERGED from [com.google.firebase:firebase-messaging:23.1.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\5b28a588bfcae4e1d846d8fa7377ad40\transformed\firebase-messaging-23.1.0\AndroidManifest.xml:52:9-58:19
+MERGED from [com.google.firebase:firebase-messaging:23.1.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\5b28a588bfcae4e1d846d8fa7377ad40\transformed\firebase-messaging-23.1.0\AndroidManifest.xml:52:9-58:19
+MERGED from [com.google.firebase:firebase-datatransport:18.1.7] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\e0195fe8a3d2007dc3cac1dea554c531\transformed\firebase-datatransport-18.1.7\AndroidManifest.xml:24:9-30:19
+MERGED from [com.google.firebase:firebase-datatransport:18.1.7] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\e0195fe8a3d2007dc3cac1dea554c531\transformed\firebase-datatransport-18.1.7\AndroidManifest.xml:24:9-30:19
+MERGED from [com.google.firebase:firebase-installations:17.1.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\2fc1d418023c2f37cbf82f00212f7a18\transformed\firebase-installations-17.1.0\AndroidManifest.xml:14:9-20:19
+MERGED from [com.google.firebase:firebase-installations:17.1.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\2fc1d418023c2f37cbf82f00212f7a18\transformed\firebase-installations-17.1.0\AndroidManifest.xml:14:9-20:19
+MERGED from [com.google.firebase:firebase-common:20.2.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\7b9e1ecb22d5d65bf7a2fdd510abe3ac\transformed\firebase-common-20.2.0\AndroidManifest.xml:32:9-36:35
+MERGED from [com.google.firebase:firebase-common:20.2.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\7b9e1ecb22d5d65bf7a2fdd510abe3ac\transformed\firebase-common-20.2.0\AndroidManifest.xml:32:9-36:35
+	android:exported
+		ADDED from [com.google.firebase:firebase-database:20.1.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\28d488829ff15e5f9f38676c84dcfda0\transformed\firebase-database-20.1.0\AndroidManifest.xml:30:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:20.2.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\7b9e1ecb22d5d65bf7a2fdd510abe3ac\transformed\firebase-common-20.2.0\AndroidManifest.xml:36:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.2.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\7b9e1ecb22d5d65bf7a2fdd510abe3ac\transformed\firebase-common-20.2.0\AndroidManifest.xml:34:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-database:20.1.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\28d488829ff15e5f9f38676c84dcfda0\transformed\firebase-database-20.1.0\AndroidManifest.xml:29:13-84
+meta-data#com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar
+ADDED from [com.google.firebase:firebase-database:20.1.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\28d488829ff15e5f9f38676c84dcfda0\transformed\firebase-database-20.1.0\AndroidManifest.xml:31:13-33:85
+	android:value
+		ADDED from [com.google.firebase:firebase-database:20.1.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\28d488829ff15e5f9f38676c84dcfda0\transformed\firebase-database-20.1.0\AndroidManifest.xml:33:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-database:20.1.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\28d488829ff15e5f9f38676c84dcfda0\transformed\firebase-database-20.1.0\AndroidManifest.xml:32:17-109
+uses-permission#android.permission.POST_NOTIFICATIONS
+ADDED from [com.google.firebase:firebase-messaging:23.1.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\5b28a588bfcae4e1d846d8fa7377ad40\transformed\firebase-messaging-23.1.0\AndroidManifest.xml:25:5-77
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:23.1.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\5b28a588bfcae4e1d846d8fa7377ad40\transformed\firebase-messaging-23.1.0\AndroidManifest.xml:25:22-74
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-messaging:23.1.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\5b28a588bfcae4e1d846d8fa7377ad40\transformed\firebase-messaging-23.1.0\AndroidManifest.xml:26:5-68
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\2b6bb17616cd1dfb3b6afd67173ee000\transformed\play-services-cloud-messaging-17.0.1\AndroidManifest.xml:9:5-68
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\2b6bb17616cd1dfb3b6afd67173ee000\transformed\play-services-cloud-messaging-17.0.1\AndroidManifest.xml:9:5-68
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:23.1.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\5b28a588bfcae4e1d846d8fa7377ad40\transformed\firebase-messaging-23.1.0\AndroidManifest.xml:26:22-65
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-messaging:23.1.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\5b28a588bfcae4e1d846d8fa7377ad40\transformed\firebase-messaging-23.1.0\AndroidManifest.xml:28:5-82
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\2b6bb17616cd1dfb3b6afd67173ee000\transformed\play-services-cloud-messaging-17.0.1\AndroidManifest.xml:11:5-82
+MERGED from [com.google.android.gms:play-services-cloud-messaging:17.0.1] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\2b6bb17616cd1dfb3b6afd67173ee000\transformed\play-services-cloud-messaging-17.0.1\AndroidManifest.xml:11:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:23.1.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\5b28a588bfcae4e1d846d8fa7377ad40\transformed\firebase-messaging-23.1.0\AndroidManifest.xml:28:22-79
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-messaging:23.1.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\5b28a588bfcae4e1d846d8fa7377ad40\transformed\firebase-messaging-23.1.0\AndroidManifest.xml:31:9-38:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:23.1.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\5b28a588bfcae4e1d846d8fa7377ad40\transformed\firebase-messaging-23.1.0\AndroidManifest.xml:33:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-messaging:23.1.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\5b28a588bfcae4e1d846d8fa7377ad40\transformed\firebase-messaging-23.1.0\AndroidManifest.xml:34:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:23.1.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\5b28a588bfcae4e1d846d8fa7377ad40\transformed\firebase-messaging-23.1.0\AndroidManifest.xml:32:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-messaging:23.1.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\5b28a588bfcae4e1d846d8fa7377ad40\transformed\firebase-messaging-23.1.0\AndroidManifest.xml:35:13-37:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-messaging:23.1.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\5b28a588bfcae4e1d846d8fa7377ad40\transformed\firebase-messaging-23.1.0\AndroidManifest.xml:36:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:23.1.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\5b28a588bfcae4e1d846d8fa7377ad40\transformed\firebase-messaging-23.1.0\AndroidManifest.xml:36:25-78
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:23.1.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\5b28a588bfcae4e1d846d8fa7377ad40\transformed\firebase-messaging-23.1.0\AndroidManifest.xml:44:9-51:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:23.1.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\5b28a588bfcae4e1d846d8fa7377ad40\transformed\firebase-messaging-23.1.0\AndroidManifest.xml:47:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-messaging:23.1.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\5b28a588bfcae4e1d846d8fa7377ad40\transformed\firebase-messaging-23.1.0\AndroidManifest.xml:46:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:23.1.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\5b28a588bfcae4e1d846d8fa7377ad40\transformed\firebase-messaging-23.1.0\AndroidManifest.xml:45:13-82
+meta-data#com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar
+ADDED from [com.google.firebase:firebase-messaging:23.1.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\5b28a588bfcae4e1d846d8fa7377ad40\transformed\firebase-messaging-23.1.0\AndroidManifest.xml:55:13-57:85
+	android:value
+		ADDED from [com.google.firebase:firebase-messaging:23.1.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\5b28a588bfcae4e1d846d8fa7377ad40\transformed\firebase-messaging-23.1.0\AndroidManifest.xml:57:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:23.1.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\5b28a588bfcae4e1d846d8fa7377ad40\transformed\firebase-messaging-23.1.0\AndroidManifest.xml:56:17-119
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\640494a1eb71e07041df009a5231cae6\transformed\play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\640494a1eb71e07041df009a5231cae6\transformed\play-services-base-18.0.1\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\640494a1eb71e07041df009a5231cae6\transformed\play-services-base-18.0.1\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\640494a1eb71e07041df009a5231cae6\transformed\play-services-base-18.0.1\AndroidManifest.xml:20:19-85
+meta-data#com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar
+ADDED from [com.google.firebase:firebase-datatransport:18.1.7] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\e0195fe8a3d2007dc3cac1dea554c531\transformed\firebase-datatransport-18.1.7\AndroidManifest.xml:27:13-29:85
+	android:value
+		ADDED from [com.google.firebase:firebase-datatransport:18.1.7] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\e0195fe8a3d2007dc3cac1dea554c531\transformed\firebase-datatransport-18.1.7\AndroidManifest.xml:29:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-datatransport:18.1.7] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\e0195fe8a3d2007dc3cac1dea554c531\transformed\firebase-datatransport-18.1.7\AndroidManifest.xml:28:17-115
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar
+ADDED from [com.google.firebase:firebase-installations:17.1.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\2fc1d418023c2f37cbf82f00212f7a18\transformed\firebase-installations-17.1.0\AndroidManifest.xml:17:13-19:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:17.1.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\2fc1d418023c2f37cbf82f00212f7a18\transformed\firebase-installations-17.1.0\AndroidManifest.xml:19:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:17.1.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\2fc1d418023c2f37cbf82f00212f7a18\transformed\firebase-installations-17.1.0\AndroidManifest.xml:18:17-127
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:20.2.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\7b9e1ecb22d5d65bf7a2fdd510abe3ac\transformed\firebase-common-20.2.0\AndroidManifest.xml:25:9-30:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:20.2.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\7b9e1ecb22d5d65bf7a2fdd510abe3ac\transformed\firebase-common-20.2.0\AndroidManifest.xml:27:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:20.2.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\7b9e1ecb22d5d65bf7a2fdd510abe3ac\transformed\firebase-common-20.2.0\AndroidManifest.xml:29:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.2.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\7b9e1ecb22d5d65bf7a2fdd510abe3ac\transformed\firebase-common-20.2.0\AndroidManifest.xml:28:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:20.2.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\7b9e1ecb22d5d65bf7a2fdd510abe3ac\transformed\firebase-common-20.2.0\AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:20.2.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\7b9e1ecb22d5d65bf7a2fdd510abe3ac\transformed\firebase-common-20.2.0\AndroidManifest.xml:26:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\67093be977bcd20b2da7579a4a2b8bd2\transformed\play-services-basement-18.1.0\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\67093be977bcd20b2da7579a4a2b8bd2\transformed\play-services-basement-18.1.0\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\67093be977bcd20b2da7579a4a2b8bd2\transformed\play-services-basement-18.1.0\AndroidManifest.xml:22:13-58
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\5230cd85341fc71f3a92fc327a0f82ab\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\5230cd85341fc71f3a92fc327a0f82ab\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\5230cd85341fc71f3a92fc327a0f82ab\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:30:17-78
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\16e8d08a14d4e3392a844b470c33cd7a\transformed\window-1.0.0\AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\16e8d08a14d4e3392a844b470c33cd7a\transformed\window-1.0.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\16e8d08a14d4e3392a844b470c33cd7a\transformed\window-1.0.0\AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\16e8d08a14d4e3392a844b470c33cd7a\transformed\window-1.0.0\AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\16e8d08a14d4e3392a844b470c33cd7a\transformed\window-1.0.0\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\16e8d08a14d4e3392a844b470c33cd7a\transformed\window-1.0.0\AndroidManifest.xml:29:13-51
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\c1c65b990fd1f509002c889b0ad26955\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\c1c65b990fd1f509002c889b0ad26955\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\c1c65b990fd1f509002c889b0ad26955\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+permission#com.example.projectskripsi.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\c1c65b990fd1f509002c889b0ad26955\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\c1c65b990fd1f509002c889b0ad26955\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\c1c65b990fd1f509002c889b0ad26955\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\c1c65b990fd1f509002c889b0ad26955\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\c1c65b990fd1f509002c889b0ad26955\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+uses-permission#com.example.projectskripsi.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\c1c65b990fd1f509002c889b0ad26955\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\c1c65b990fd1f509002c889b0ad26955\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+service#com.google.android.datatransport.runtime.backends.TransportBackendDiscovery
+ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.8] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\ceee3ce462fc71d0ef606425104643a8\transformed\transport-backend-cct-3.1.8\AndroidManifest.xml:28:9-34:19
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.8] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\cde95c5bbfe8fc3171952bac4bc649be\transformed\transport-runtime-3.1.8\AndroidManifest.xml:36:9-38:40
+MERGED from [com.google.android.datatransport:transport-runtime:3.1.8] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\cde95c5bbfe8fc3171952bac4bc649be\transformed\transport-runtime-3.1.8\AndroidManifest.xml:36:9-38:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.8] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\ceee3ce462fc71d0ef606425104643a8\transformed\transport-backend-cct-3.1.8\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.8] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\ceee3ce462fc71d0ef606425104643a8\transformed\transport-backend-cct-3.1.8\AndroidManifest.xml:29:13-103
+meta-data#backend:com.google.android.datatransport.cct.CctBackendFactory
+ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.8] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\ceee3ce462fc71d0ef606425104643a8\transformed\transport-backend-cct-3.1.8\AndroidManifest.xml:31:13-33:39
+	android:value
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.8] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\ceee3ce462fc71d0ef606425104643a8\transformed\transport-backend-cct-3.1.8\AndroidManifest.xml:33:17-36
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:3.1.8] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\ceee3ce462fc71d0ef606425104643a8\transformed\transport-backend-cct-3.1.8\AndroidManifest.xml:32:17-94
+service#com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService
+ADDED from [com.google.android.datatransport:transport-runtime:3.1.8] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\cde95c5bbfe8fc3171952bac4bc649be\transformed\transport-runtime-3.1.8\AndroidManifest.xml:26:9-30:19
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.8] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\cde95c5bbfe8fc3171952bac4bc649be\transformed\transport-runtime-3.1.8\AndroidManifest.xml:28:13-37
+	android:permission
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.8] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\cde95c5bbfe8fc3171952bac4bc649be\transformed\transport-runtime-3.1.8\AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.8] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\cde95c5bbfe8fc3171952bac4bc649be\transformed\transport-runtime-3.1.8\AndroidManifest.xml:27:13-117
+receiver#com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver
+ADDED from [com.google.android.datatransport:transport-runtime:3.1.8] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\cde95c5bbfe8fc3171952bac4bc649be\transformed\transport-runtime-3.1.8\AndroidManifest.xml:32:9-34:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.8] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\cde95c5bbfe8fc3171952bac4bc649be\transformed\transport-runtime-3.1.8\AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:3.1.8] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\cde95c5bbfe8fc3171952bac4bc649be\transformed\transport-runtime-3.1.8\AndroidManifest.xml:33:13-132
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\50b5a1e36d1a4d5dd49578131d9b1e4f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\50b5a1e36d1a4d5dd49578131d9b1e4f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\50b5a1e36d1a4d5dd49578131d9b1e4f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\50b5a1e36d1a4d5dd49578131d9b1e4f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\50b5a1e36d1a4d5dd49578131d9b1e4f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\50b5a1e36d1a4d5dd49578131d9b1e4f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\50b5a1e36d1a4d5dd49578131d9b1e4f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\50b5a1e36d1a4d5dd49578131d9b1e4f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\50b5a1e36d1a4d5dd49578131d9b1e4f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\50b5a1e36d1a4d5dd49578131d9b1e4f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\50b5a1e36d1a4d5dd49578131d9b1e4f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\50b5a1e36d1a4d5dd49578131d9b1e4f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\50b5a1e36d1a4d5dd49578131d9b1e4f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\50b5a1e36d1a4d5dd49578131d9b1e4f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\50b5a1e36d1a4d5dd49578131d9b1e4f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\50b5a1e36d1a4d5dd49578131d9b1e4f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\50b5a1e36d1a4d5dd49578131d9b1e4f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\50b5a1e36d1a4d5dd49578131d9b1e4f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\50b5a1e36d1a4d5dd49578131d9b1e4f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\50b5a1e36d1a4d5dd49578131d9b1e4f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\50b5a1e36d1a4d5dd49578131d9b1e4f\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:25-92

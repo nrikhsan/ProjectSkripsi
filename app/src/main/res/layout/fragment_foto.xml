@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.core.widget.NestedScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background_color"
+    tools:context=".ui.fragment.foto.FragmentFoto">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <include
+            android:id="@+id/layoutPerbaikanJalan"
+            layout="@layout/layout_perbaikan_jalan"/>
+
+        <include
+            android:id="@+id/layout_kerja_bakti"
+            layout="@layout/layout_kerja_bakti"/>
+
+        <include
+            layout="@layout/layout_agustusan"/>
+
+    </LinearLayout>
+
+</androidx.core.widget.NestedScrollView>

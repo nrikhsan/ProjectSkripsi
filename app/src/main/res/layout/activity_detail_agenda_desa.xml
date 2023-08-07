@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="@color/background_color"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.activity.DetailAgendaDesaActivity"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <com.google.android.material.appbar.MaterialToolbar
+        android:id="@+id/toolbarDetailAgenda"
+        android:theme="@style/custom_toolbar_detail_agenda_desa"
+        app:titleTextAppearance="@style/custom_text_toolbar"
+        app:titleTextColor="@color/white"
+        app:title="@string/pengobatan_gratis"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:background="@drawable/pengobatan"
+            android:scaleType="fitXY"
+            android:layout_width="match_parent"
+            android:layout_height="250dp"/>
+
+        <ImageView
+            android:background="@color/black_transparent_15"
+            android:layout_width="match_parent"
+            android:layout_height="250dp"/>
+
+    </FrameLayout>
+
+    <TextView
+        android:paddingHorizontal="10dp"
+        android:text="@string/pemerintah_kabupaten_kuningan_melalui_rumah_sakit_umum_terus_mengencarkan_pengobatan_gratis_untuk_masyarakat_di_desa_desa_kali_ini_pengobatan_gratis_dilaksanakan_di_balai_desa_cibentang_yang_akan_dilaksanakan_pada_hari_sabtu_27_mei_2023"
+        android:textSize="13sp"
+        android:textColor="@color/black"
+        android:fontFamily="@font/roboto_regular"
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <TextView
+        android:paddingHorizontal="10dp"
+        android:text="@string/u2022_tempat_balai_desa_cibentang_n_u2022_tanggal_dan_waktu_sabtu_27_mei_2023_n_u2022_keterangan_tidak_dipungut_biaya"
+        android:textSize="13sp"
+        android:textColor="@color/black"
+        android:fontFamily="@font/roboto_regular"
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+
+
+</LinearLayout>

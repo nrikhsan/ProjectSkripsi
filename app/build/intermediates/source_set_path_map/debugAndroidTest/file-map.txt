@@ -1,0 +1,6 @@
+com.example.projectskripsi.test.app-annotation-experimental-1.3.0-0 C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\5de4d28702108e18d6d297caf72e644b\transformed\annotation-experimental-1.3.0\res
+com.example.projectskripsi.test.app-core-1.5.0-1 C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\8ed28382482a7a51278a05a4e60ab56a\transformed\core-1.5.0\res
+com.example.projectskripsi.test.app-androidTest-2 F:\ProjectSkripsi\app\build\generated\res\resValues\androidTest\debug
+com.example.projectskripsi.test.app-mergeDebugAndroidTestResources-3 F:\ProjectSkripsi\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.projectskripsi.test.app-mergeDebugAndroidTestResources-4 F:\ProjectSkripsi\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.projectskripsi.test.app-merged_res-5 F:\ProjectSkripsi\app\build\intermediates\merged_res\debugAndroidTest

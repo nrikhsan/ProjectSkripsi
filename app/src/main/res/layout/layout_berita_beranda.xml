@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HorizontalScrollView
+    android:layout_marginTop="10dp"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:scrollbars="none">
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="340dp"
+            android:layout_height="280dp"
+            app:cardCornerRadius="10dp"
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+            app:cardBackgroundColor="@color/card_backgound_color">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <FrameLayout
+                    android:id="@+id/frameBeritaBimbingan"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                    <ImageView
+                        android:background="@drawable/berita_bimbingan_teknis"
+                        android:layout_width="match_parent"
+                        android:layout_height="130dp"/>
+
+                    <ImageView
+                        android:scaleType="fitXY"
+                        android:background="@color/black_transparent_15"
+                        android:layout_width="match_parent"
+                        android:layout_height="130dp"/>
+
+                </FrameLayout>
+
+                <TextView
+                    android:id="@+id/tvJudulBeritaBimbingan"
+                    android:textSize="18sp"
+                    android:textColor="@color/black"
+                    android:fontFamily="@font/roboto_medium"
+                    android:text="@string/bimbingan_teknis_pelatihan_website_desa"
+                    android:layout_marginTop="10dp"
+                    android:maxLines="2"
+                    android:ellipsize="end"
+                    android:layout_marginStart="10dp"
+                    android:layout_below="@id/frameBeritaBimbingan"
+                    android:layout_width="300dp"
+                    android:layout_height="wrap_content"/>
+
+                <TextView
+                    android:id="@+id/tvDeskripsiBeritaimbingan"
+                    android:textSize="13sp"
+                    android:textColor="@color/black"
+                    android:fontFamily="@font/roboto_regular"
+                    android:text="@string/lorem_ipsum_is_simply_dummy_text_of_the_printing_and_typesetting_industry_lorem_ipsum_has_been_the_industry_s_standard_dummy_text_ever_since_the_1500s_when_an_unknown_printer_took_a_galley_of_type_and_scrambled_it_to_make_a_type_specimen_book"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginStart="10dp"
+                    android:ellipsize="end"
+                    android:maxLines="2"
+                    android:layout_below="@id/tvJudulBeritaBimbingan"
+                    android:layout_width="300dp"
+                    android:layout_height="wrap_content"/>
+
+
+                <TextView
+                    android:id="@+id/tvTanggalBeritaBimbinganTeknis"
+                    android:textSize="13sp"
+                    android:textColor="@color/grey"
+                    android:text="@string/jum_at_26_mei_2023"
+                    android:layout_marginStart="10dp"
+                    android:layout_alignParentBottom="true"
+                    android:fontFamily="@font/roboto_regular"
+                    android:layout_marginBottom="15dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"/>
+
+
+                <com.google.android.material.button.MaterialButton
+                    android:id="@+id/btnBacSekarang1"
+                    android:text="@string/baca_sekarang"
+                    android:textSize="13sp"
+                    android:layout_alignParentEnd="true"
+                    android:layout_alignParentBottom="true"
+                    app:cornerRadius="10dp"
+                    android:layout_marginEnd="10dp"
+                    android:layout_marginBottom="5dp"
+                    android:fontFamily="@font/roboto_regular"
+                    android:textAllCaps="false"
+                    android:layout_width="wrap_content"
+                    android:layout_height="40dp"/>
+
+            </RelativeLayout>
+
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            android:layout_marginStart="10dp"
+            android:layout_width="340dp"
+            android:layout_height="280dp"
+            app:cardCornerRadius="10dp"
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+            app:cardBackgroundColor="@color/card_backgound_color">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <FrameLayout
+                    android:id="@+id/frameBeritaMusrenbang"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                    <ImageView
+                        android:background="@drawable/musrenbang"
+                        android:layout_width="match_parent"
+                        android:layout_height="130dp"/>
+
+                    <ImageView
+                        android:scaleType="fitXY"
+                        android:background="@color/black_transparent_15"
+                        android:layout_width="match_parent"
+                        android:layout_height="130dp"/>
+
+                </FrameLayout>
+
+                <TextView
+                    android:id="@+id/tvJudulBeritaMusrenbang"
+                    android:textSize="18sp"
+                    android:textColor="@color/black"
+                    android:fontFamily="@font/roboto_medium"
+                    android:text="@string/pembangunan_desa_harus_bersinergi_dengan_vis_kuningan_maju"
+                    android:layout_marginTop="10dp"
+                    android:maxLines="2"
+                    android:ellipsize="end"
+                    android:layout_marginStart="10dp"
+                    android:layout_below="@id/frameBeritaMusrenbang"
+                    android:layout_width="300dp"
+                    android:layout_height="wrap_content"/>
+
+                <TextView
+                    android:id="@+id/tvDeskripsiMusrenbang"
+                    android:textSize="13sp"
+                    android:textColor="@color/black"
+                    android:fontFamily="@font/roboto_regular"
+                    android:text="@string/lorem_ipsum_is_simply_dummy_text_of_the_printing_and_typesetting_industry_lorem_ipsum_has_been_the_industry_s_standard_dummy_text_ever_since_the_1500s_when_an_unknown_printer_took_a_galley_of_type_and_scrambled_it_to_make_a_type_specimen_book"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginStart="10dp"
+                    android:ellipsize="end"
+                    android:maxLines="2"
+                    android:layout_below="@id/tvJudulBeritaMusrenbang"
+                    android:layout_width="300dp"
+                    android:layout_height="wrap_content"/>
+
+
+                <TextView
+                    android:id="@+id/tvTanggalBeritaPembangunan"
+                    android:textSize="13sp"
+                    android:textColor="@color/grey"
+                    android:text="@string/minggu_29_mei_2023"
+                    android:layout_marginStart="10dp"
+                    android:layout_alignParentBottom="true"
+                    android:fontFamily="@font/roboto_regular"
+                    android:layout_marginBottom="15dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"/>
+
+
+                <com.google.android.material.button.MaterialButton
+                    android:id="@+id/btnBacSekarang2"
+                    android:text="@string/baca_sekarang"
+                    android:textSize="12sp"
+                    android:layout_alignParentEnd="true"
+                    android:layout_alignParentBottom="true"
+                    app:cornerRadius="10dp"
+                    android:layout_marginEnd="10dp"
+                    android:layout_marginBottom="5dp"
+                    android:fontFamily="@font/roboto_regular"
+                    android:textAllCaps="false"
+                    android:layout_width="wrap_content"
+                    android:layout_height="40dp"/>
+
+            </RelativeLayout>
+
+        </androidx.cardview.widget.CardView>
+
+    </LinearLayout>
+    
+
+
+</HorizontalScrollView>

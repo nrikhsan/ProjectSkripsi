@@ -1,0 +1,154 @@
+[
+    {
+        "merged": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-mergeDebugResources-52:\\layout\\layout_berita_pencarian.xml",
+        "source": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-main-55:\\layout\\layout_berita_pencarian.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-mergeDebugResources-52:\\layout\\card_misi_desa_cibentang.xml",
+        "source": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-main-55:\\layout\\card_misi_desa_cibentang.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-mergeDebugResources-52:\\layout\\layout_video_kegiatan.xml",
+        "source": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-main-55:\\layout\\layout_video_kegiatan.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-mergeDebugResources-52:\\layout\\activity_detail_agenda_desa.xml",
+        "source": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-main-55:\\layout\\activity_detail_agenda_desa.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-mergeDebugResources-52:\\layout\\activity_pengaduan.xml",
+        "source": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-main-55:\\layout\\activity_pengaduan.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-mergeDebugResources-52:\\layout\\layout_tabel_anggaran_desa_2.xml",
+        "source": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-main-55:\\layout\\layout_tabel_anggaran_desa_2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-mergeDebugResources-52:\\layout\\layout_notifikasi.xml",
+        "source": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-main-55:\\layout\\layout_notifikasi.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-mergeDebugResources-52:\\layout\\card_visi_desa_cibentang.xml",
+        "source": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-main-55:\\layout\\card_visi_desa_cibentang.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-mergeDebugResources-52:\\layout\\layout_bottom_sheet_riwayat_pengaduan.xml",
+        "source": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-main-55:\\layout\\layout_bottom_sheet_riwayat_pengaduan.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-mergeDebugResources-52:\\layout\\layout_agustusan.xml",
+        "source": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-main-55:\\layout\\layout_agustusan.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-mergeDebugResources-52:\\layout\\layout_image_galeri_desa_beranda.xml",
+        "source": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-main-55:\\layout\\layout_image_galeri_desa_beranda.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-mergeDebugResources-52:\\layout\\layout_berita_beranda.xml",
+        "source": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-main-55:\\layout\\layout_berita_beranda.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-mergeDebugResources-52:\\layout\\fragment_profil_desa.xml",
+        "source": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-main-55:\\layout\\fragment_profil_desa.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-mergeDebugResources-52:\\layout\\activity_pencarian_berita.xml",
+        "source": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-main-55:\\layout\\activity_pencarian_berita.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-mergeDebugResources-52:\\layout\\layout_agenda_desa_beranda.xml",
+        "source": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-main-55:\\layout\\layout_agenda_desa_beranda.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-mergeDebugResources-52:\\layout\\fragment_video.xml",
+        "source": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-main-55:\\layout\\fragment_video.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-mergeDebugResources-52:\\layout\\activity_detail_berita_desa.xml",
+        "source": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-main-55:\\layout\\activity_detail_berita_desa.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-mergeDebugResources-52:\\layout\\layout_tabel_anggaran_desa_1.xml",
+        "source": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-main-55:\\layout\\layout_tabel_anggaran_desa_1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-mergeDebugResources-52:\\layout\\activity_detail_lembaga.xml",
+        "source": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-main-55:\\layout\\activity_detail_lembaga.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-mergeDebugResources-52:\\layout\\layout_agenda_desa.xml",
+        "source": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-main-55:\\layout\\layout_agenda_desa.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-mergeDebugResources-52:\\layout\\layout_perbaikan_jalan.xml",
+        "source": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-main-55:\\layout\\layout_perbaikan_jalan.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-mergeDebugResources-52:\\layout\\layout_berita_halaman_berita_desa.xml",
+        "source": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-main-55:\\layout\\layout_berita_halaman_berita_desa.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-mergeDebugResources-52:\\layout\\activity_detail_galeri_kegiatan.xml",
+        "source": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-main-55:\\layout\\activity_detail_galeri_kegiatan.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-mergeDebugResources-52:\\layout\\activity_riwayat_pengaduan.xml",
+        "source": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-main-55:\\layout\\activity_riwayat_pengaduan.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-mergeDebugResources-52:\\layout\\activity_berita_desa.xml",
+        "source": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-main-55:\\layout\\activity_berita_desa.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-mergeDebugResources-52:\\layout\\fragment_foto.xml",
+        "source": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-main-55:\\layout\\fragment_foto.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-mergeDebugResources-52:\\layout\\layout_lembaga_desa.xml",
+        "source": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-main-55:\\layout\\layout_lembaga_desa.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-mergeDebugResources-52:\\layout\\activity_agenda_desa.xml",
+        "source": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-main-55:\\layout\\activity_agenda_desa.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-mergeDebugResources-52:\\layout\\layout_kerja_bakti.xml",
+        "source": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-main-55:\\layout\\layout_kerja_bakti.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-mergeDebugResources-52:\\layout\\fragment_beranda.xml",
+        "source": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-main-55:\\layout\\fragment_beranda.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-mergeDebugResources-52:\\layout\\fragment_dana_desa.xml",
+        "source": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-main-55:\\layout\\fragment_dana_desa.xml"
+    },
+    {
+        "merged": "com.example.projectskripsi.app-mergeDebugResources-52:/layout/layout_notifikasi.xml",
+        "source": "com.example.projectskripsi.app-main-55:/layout/layout_notifikasi.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-mergeDebugResources-52:\\layout\\fragment_lembaga.xml",
+        "source": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-main-55:\\layout\\fragment_lembaga.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-mergeDebugResources-52:\\layout\\activity_galeri_desa.xml",
+        "source": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-main-55:\\layout\\activity_galeri_desa.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-mergeDebugResources-52:\\layout\\layout_tabel_anggaran_desa_3.xml",
+        "source": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-main-55:\\layout\\layout_tabel_anggaran_desa_3.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-mergeDebugResources-52:\\layout\\layout_tabel_rt_rw.xml",
+        "source": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-main-55:\\layout\\layout_tabel_rt_rw.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-mergeDebugResources-52:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-main-55:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-mergeDebugResources-52:\\layout\\card_riwayat_pengaduan.xml",
+        "source": "C:\\Users\\Karim Benzema\\.gradle\\wrapper\\dists\\gradle-8.0-bin\\daemon\\8.0\\com.example.projectskripsi.app-main-55:\\layout\\card_riwayat_pengaduan.xml"
+    }
+]

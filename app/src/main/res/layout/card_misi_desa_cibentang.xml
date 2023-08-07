@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView android:layout_gravity="center_horizontal"
+    android:layout_marginTop="10dp"
+    android:elevation="4dp"
+    app:cardCornerRadius="10dp"
+    app:cardBackgroundColor="@color/green"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_marginEnd="10dp"
+    android:layout_marginStart="10dp"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <GridLayout
+        android:layout_gravity="center"
+        android:paddingHorizontal="20dp"
+        android:paddingVertical="20dp"
+        android:columnCount="2"
+        android:rowCount="7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:text="@string/_1"
+            android:fontFamily="@font/roboto_medium"
+            android:textSize="13sp"
+            android:textColor="@color/white"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"/>
+
+        <TextView
+            android:layout_marginStart="2dp"
+            android:text="@string/meningkatkan_pembangunan_infrastruktur_yang_mendukung_perekonomian_desa_seperti_jalan_jembatan_pasar_desa_objek_wisata_serta_infrastruktur_strategis_lainnya"
+            android:fontFamily="@font/roboto_medium"
+            android:textSize="13sp"
+            android:textColor="@color/white"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"/>
+
+        <TextView
+            android:text="@string/_2"
+            android:fontFamily="@font/roboto_medium"
+            android:textSize="13sp"
+            android:textColor="@color/white"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"/>
+
+        <TextView
+            android:layout_marginStart="2dp"
+            android:text="@string/meningkatkan_pembangunan_dibidang_kesehatan_untuk_mendorong_derajat_kesehatan_masyarakat_agar_dapat_bekerja_lebih_optimal_dan_memiliki_harapan_hidup_yang_lebih_panjang"
+            android:fontFamily="@font/roboto_medium"
+            android:textSize="13sp"
+            android:textColor="@color/white"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"/>
+
+        <TextView
+            android:text="@string/_3"
+            android:fontFamily="@font/roboto_medium"
+            android:textSize="13sp"
+            android:textColor="@color/white"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"/>
+
+        <TextView
+            android:layout_marginStart="2dp"
+            android:text="@string/meningkatkan_pembangunan_di_bidang_keagaman_untuk_mendorong_dan_mendukung_kegiatan_masyarakat_agar_lebih_optimal_dalam_beribadah"
+            android:fontFamily="@font/roboto_medium"
+            android:textSize="13sp"
+            android:textColor="@color/white"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"/>
+
+        <TextView
+            android:text="@string/_4"
+            android:fontFamily="@font/roboto_medium"
+            android:textSize="13sp"
+            android:textColor="@color/white"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"/>
+
+        <TextView
+            android:layout_marginStart="2dp"
+            android:text="@string/meningkatkan_pembangunan_di_bidang_pendidikan_untuk_mendorong_peningkatan_kualitas_sumber_daya_manusia_agar_memiliki_kecerdasan_dan_daya_saing_yang_lebih_baik"
+            android:fontFamily="@font/roboto_medium"
+            android:textSize="13sp"
+            android:textColor="@color/white"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"/>
+
+
+        <TextView
+            android:text="@string/_5"
+            android:fontFamily="@font/roboto_medium"
+            android:textSize="13sp"
+            android:textColor="@color/white"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"/>
+
+        <TextView
+            android:layout_marginStart="2dp"
+            android:text="@string/meningkatkan_pembangunan_ekonomi_dengan_mendorong_semakin_tumbuh_dan_berkembangnya_pembangunan_di_bidang_pertanian_dalam_arti_luas_industri_perdagangan_dan_pariwisata"
+            android:fontFamily="@font/roboto_medium"
+            android:textSize="13sp"
+            android:textColor="@color/white"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"/>
+
+        <TextView
+            android:text="@string/_6"
+            android:fontFamily="@font/roboto_medium"
+            android:textSize="13sp"
+            android:textColor="@color/white"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"/>
+
+        <TextView
+            android:layout_marginStart="2dp"
+            android:text="@string/menciptakan_tata_kelola_pemerintahan_yang_baik_good_governance_berdasarkan_demokratisasi_transparansi_penegakan_hukum_berkeadilan_kesetaraan_gender_dan_mengutamakan_pelayanan_kepada_masyarakat"
+            android:fontFamily="@font/roboto_medium"
+            android:textSize="13sp"
+            android:textColor="@color/white"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"/>
+
+        <TextView
+            android:text="@string/_7"
+            android:fontFamily="@font/roboto_medium"
+            android:textSize="13sp"
+            android:textColor="@color/white"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"/>
+
+        <TextView
+            android:layout_marginStart="2dp"
+            android:text="@string/mengupayakan_pelestarian_sumber_daya_alam_untuk_memenuhi_kebutuhan_dan_pemerataan_pembangunan_guna_meningkatkan_perekonomian"
+            android:fontFamily="@font/roboto_medium"
+            android:textSize="13sp"
+            android:textColor="@color/white"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"/>
+
+
+    </GridLayout>
+
+</androidx.cardview.widget.CardView>

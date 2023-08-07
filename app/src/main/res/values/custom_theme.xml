@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="custom_text_bottom_navigation">
+        <item name="fontFamily">@font/roboto_regular</item>
+        <item name="android:textSize">13sp</item>
+    </style>
+
+    <style name="custom_toolbar_beranda">
+        <item name="android:background">@color/green</item>
+        <item name="menu">@menu/topbar_menu_beranda</item>
+    </style>
+
+    <style name="custom_toolbar_pencarian_berita">
+        <item name="fontFamily"> @font/roboto_medium</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:textColorHint">@color/grey</item>
+        <item name="navigationIcon">@drawable/arrow_back</item>
+    </style>
+
+    <style name="custom_toolbar_pengaduan">
+        <item name="menu">@menu/topbar_menu_pengaduan</item>
+        <item name="android:background">@color/green</item>
+        <item name="navigationIcon">@drawable/arrow_back</item>
+    </style>
+
+    <style name="custom_toolbar_riwayat_pengaduan">
+        <item name="android:background">@color/green</item>
+        <item name="navigationIcon">@drawable/arrow_back</item>
+    </style>
+
+    <style name="custom_toolbar_berita_desa">
+        <item name="android:background">@color/green</item>
+        <item name="navigationIcon">@drawable/arrow_back</item>
+    </style>
+
+    <style name="custom_toolbar_detail_berita_desa">
+        <item name="menu">@menu/topbar_menu_detail_berita_desa</item>
+        <item name="android:background">@color/green</item>
+        <item name="navigationIcon">@drawable/arrow_back</item>
+    </style>
+
+    <style name="custom_toolbar_detail_agenda_desa">
+        <item name="android:background">@color/green</item>
+        <item name="navigationIcon">@drawable/arrow_back</item>
+    </style>
+
+    <style name="custom_toolbar_agenda_desa">
+        <item name="android:background">@color/green</item>
+        <item name="navigationIcon">@drawable/arrow_back</item>
+    </style>
+
+    <style name="custom_toolbar_galeri_desa">
+        <item name="android:background">@color/green</item>
+        <item name="navigationIcon">@drawable/arrow_back</item>
+    </style>
+
+    <style name="custom_toolbar_semuanya">
+        <item name="android:background">@color/green</item>
+        <item name="navigationIcon">@drawable/arrow_back</item>
+    </style>
+
+    <style name="custom_text_toolbar">
+        <item name="fontFamily">@font/roboto_medium</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+
+    <style name="custom_text_tab_layout">
+        <item name="fontFamily">@font/roboto_medium</item>
+        <item name="android:background">@color/background_color</item>
+        <item name="android:textSize">13sp</item>
+    </style>
+
+</resources>

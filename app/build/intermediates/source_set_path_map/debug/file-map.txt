@@ -1,0 +1,56 @@
+com.example.projectskripsi.app-emoji2-1.2.0-0 C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\0120842986cee815a05f2a1d518bbbab\transformed\emoji2-1.2.0\res
+com.example.projectskripsi.app-window-1.0.0-1 C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\16e8d08a14d4e3392a844b470c33cd7a\transformed\window-1.0.0\res
+com.example.projectskripsi.app-navigation-fragment-2.6.0-2 C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\1964c8d2a8e5e1a95cb0eca929de57b9\transformed\navigation-fragment-2.6.0\res
+com.example.projectskripsi.app-cardview-1.0.0-3 C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\1aaf061ac9001bea93f7726d9d4d5fca\transformed\cardview-1.0.0\res
+com.example.projectskripsi.app-viewpager2-1.0.0-4 C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\1cbae4c12bd6ec4d4ef875e58aaa49b6\transformed\viewpager2-1.0.0\res
+com.example.projectskripsi.app-fragment-1.6.0-5 C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\234e55a95f7bec1247684d95aa9c8a7a\transformed\fragment-1.6.0\res
+com.example.projectskripsi.app-emoji2-views-helper-1.2.0-6 C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\30a153a853ad459786d3636e3f92a798\transformed\emoji2-views-helper-1.2.0\res
+com.example.projectskripsi.app-core-runtime-2.2.0-7 C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\36f1aa68397c93a6a44a834ffc8d3de4\transformed\core-runtime-2.2.0\res
+com.example.projectskripsi.app-transition-1.4.1-8 C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\3787384b6dd331af620661788a23f40f\transformed\transition-1.4.1\res
+com.example.projectskripsi.app-navigation-fragment-ktx-2.6.0-9 C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\3ef7ff18dc8831369d8dafba2d1dd22f\transformed\navigation-fragment-ktx-2.6.0\res
+com.example.projectskripsi.app-material-1.9.0-10 C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\40b8ddf3d0503b1f081393aea090cb52\transformed\material-1.9.0\res
+com.example.projectskripsi.app-slidingpanelayout-1.2.0-11 C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\471a0e5fd29a42f3fc1518c890ba1cf0\transformed\slidingpanelayout-1.2.0\res
+com.example.projectskripsi.app-profileinstaller-1.3.0-12 C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\50b5a1e36d1a4d5dd49578131d9b1e4f\transformed\profileinstaller-1.3.0\res
+com.example.projectskripsi.app-lifecycle-process-2.6.1-13 C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\5230cd85341fc71f3a92fc327a0f82ab\transformed\lifecycle-process-2.6.1\res
+com.example.projectskripsi.app-navigation-common-ktx-2.6.0-14 C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\5a2a99c7e9703057a0d9f2d3adcd92a9\transformed\navigation-common-ktx-2.6.0\res
+com.example.projectskripsi.app-firebase-messaging-23.1.0-15 C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\5b28a588bfcae4e1d846d8fa7377ad40\transformed\firebase-messaging-23.1.0\res
+com.example.projectskripsi.app-navigation-common-2.6.0-16 C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\5b343c8b76f5de36afbdaa46ebed28b7\transformed\navigation-common-2.6.0\res
+com.example.projectskripsi.app-annotation-experimental-1.3.0-17 C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\5de4d28702108e18d6d297caf72e644b\transformed\annotation-experimental-1.3.0\res
+com.example.projectskripsi.app-lifecycle-livedata-ktx-2.6.1-18 C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\60b3d202c4dd799a3a763ac56c69f371\transformed\lifecycle-livedata-ktx-2.6.1\res
+com.example.projectskripsi.app-play-services-base-18.0.1-19 C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\640494a1eb71e07041df009a5231cae6\transformed\play-services-base-18.0.1\res
+com.example.projectskripsi.app-constraintlayout-2.1.4-20 C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\653e87de863fbb43458a559902b06c08\transformed\constraintlayout-2.1.4\res
+com.example.projectskripsi.app-lifecycle-runtime-ktx-2.6.1-21 C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\6692e16d1375d038c0651d9a07dcc7a8\transformed\lifecycle-runtime-ktx-2.6.1\res
+com.example.projectskripsi.app-play-services-basement-18.1.0-22 C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\67093be977bcd20b2da7579a4a2b8bd2\transformed\play-services-basement-18.1.0\res
+com.example.projectskripsi.app-lifecycle-runtime-2.6.1-23 C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\6e0ae3edba4f111287ac0f2dbfb3ef26\transformed\lifecycle-runtime-2.6.1\res
+com.example.projectskripsi.app-lifecycle-viewmodel-savedstate-2.6.1-24 C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\6fd91894a5ecc792399dbf2490f16b97\transformed\lifecycle-viewmodel-savedstate-2.6.1\res
+com.example.projectskripsi.app-startup-runtime-1.1.1-25 C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\78646807f3316bd3a32feee7ec3b9220\transformed\startup-runtime-1.1.1\res
+com.example.projectskripsi.app-lifecycle-livedata-core-2.6.1-26 C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\79fe47fd48b22ca053eab88ba32b9460\transformed\lifecycle-livedata-core-2.6.1\res
+com.example.projectskripsi.app-firebase-common-20.2.0-27 C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\7b9e1ecb22d5d65bf7a2fdd510abe3ac\transformed\firebase-common-20.2.0\res
+com.example.projectskripsi.app-recyclerview-1.1.0-28 C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\7e1b835111c24f2cff728e8a2789e08b\transformed\recyclerview-1.1.0\res
+com.example.projectskripsi.app-core-ktx-1.9.0-29 C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\825893c9d5bf2d84dc569cddd8de163d\transformed\core-ktx-1.9.0\res
+com.example.projectskripsi.app-activity-1.6.1-30 C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\8395129837475e1f6c42ab186adbbd4c\transformed\activity-1.6.1\res
+com.example.projectskripsi.app-savedstate-1.2.1-31 C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\84aa90b1ddf5eaf18c188d1c5b7a73fa\transformed\savedstate-1.2.1\res
+com.example.projectskripsi.app-appcompat-1.6.1-32 C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\954dbd874e6a83c1fb71b33f5146850f\transformed\appcompat-1.6.1\res
+com.example.projectskripsi.app-lifecycle-viewmodel-2.6.1-33 C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\95a6d4a9a064d18a85e1f8248180236d\transformed\lifecycle-viewmodel-2.6.1\res
+com.example.projectskripsi.app-coordinatorlayout-1.1.0-34 C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\9bf76a703864680368d4080273122461\transformed\coordinatorlayout-1.1.0\res
+com.example.projectskripsi.app-navigation-ui-2.6.0-35 C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\a805709b57a57d6f6a9b5d7824948070\transformed\navigation-ui-2.6.0\res
+com.example.projectskripsi.app-lifecycle-viewmodel-ktx-2.6.1-36 C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\a91ff3ee1ed8b384f874de8be2843085\transformed\lifecycle-viewmodel-ktx-2.6.1\res
+com.example.projectskripsi.app-appcompat-resources-1.6.1-37 C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\b570036a1bca767bed6fa2e3798c12f7\transformed\appcompat-resources-1.6.1\res
+com.example.projectskripsi.app-fragment-ktx-1.6.0-38 C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\ba2d593721a742c01f01cfba094100a9\transformed\fragment-ktx-1.6.0\res
+com.example.projectskripsi.app-core-1.9.0-39 C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\c1c65b990fd1f509002c889b0ad26955\transformed\core-1.9.0\res
+com.example.projectskripsi.app-drawerlayout-1.1.1-40 C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\c58d17742cd72823ba8b0f2888eb3285\transformed\drawerlayout-1.1.1\res
+com.example.projectskripsi.app-navigation-ui-ktx-2.6.0-41 C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\ce78cb220da09c405abf5bc23c85605d\transformed\navigation-ui-ktx-2.6.0\res
+com.example.projectskripsi.app-activity-ktx-1.6.1-42 C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\d045f4c0fa9282b4d2d5686c05d257ec\transformed\activity-ktx-1.6.1\res
+com.example.projectskripsi.app-savedstate-ktx-1.2.1-43 C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\d1039c8156ed50e010eb9e384691c9dc\transformed\savedstate-ktx-1.2.1\res
+com.example.projectskripsi.app-navigation-runtime-ktx-2.6.0-44 C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\dbf2866a0e73835519f960eab3440f10\transformed\navigation-runtime-ktx-2.6.0\res
+com.example.projectskripsi.app-lifecycle-livedata-2.6.1-45 C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\e94129946cfc28a5a4c0f88c2b3b1554\transformed\lifecycle-livedata-2.6.1\res
+com.example.projectskripsi.app-navigation-runtime-2.6.0-46 C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\f820aeb0fef11ad043afc742c50cf79c\transformed\navigation-runtime-2.6.0\res
+com.example.projectskripsi.app-lifecycle-livedata-core-ktx-2.6.1-47 C:\Users\Karim Benzema\.gradle\wrapper\dists\gradle-8.0-bin\caches\transforms-3\fbbb615ccf08f9cb84f1faae2dc39497\transformed\lifecycle-livedata-core-ktx-2.6.1\res
+com.example.projectskripsi.app-google-services-48 F:\ProjectSkripsi\app\build\generated\res\google-services\debug
+com.example.projectskripsi.app-pngs-49 F:\ProjectSkripsi\app\build\generated\res\pngs\debug
+com.example.projectskripsi.app-resValues-50 F:\ProjectSkripsi\app\build\generated\res\resValues\debug
+com.example.projectskripsi.app-packageDebugResources-51 F:\ProjectSkripsi\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.projectskripsi.app-packageDebugResources-52 F:\ProjectSkripsi\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.projectskripsi.app-merged_res-53 F:\ProjectSkripsi\app\build\intermediates\merged_res\debug
+com.example.projectskripsi.app-debug-54 F:\ProjectSkripsi\app\src\debug\res
+com.example.projectskripsi.app-main-55 F:\ProjectSkripsi\app\src\main\res

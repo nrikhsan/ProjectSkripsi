@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView
+    android:layout_marginTop="10dp"
+    android:layout_gravity="center_horizontal"
+    app:cardElevation="4dp"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_marginEnd="10dp"
+    android:layout_marginStart="10dp"
+    android:layout_height="68dp"
+    app:cardCornerRadius="10dp"
+    app:cardBackgroundColor="@color/green"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <TextView
+        android:textAlignment="center"
+        android:layout_gravity="center"
+        android:fontFamily="@font/roboto_medium"
+        android:textSize="13sp"
+        android:textColor="@color/white"
+        android:text="@string/mewujudkan_masyarakat_desa_cibentang_yang_mandiri_maju_sehat_agamis_cerdas_dan_sejahtera_secara_utuh_menyeluruh"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"/>
+
+</androidx.cardview.widget.CardView>

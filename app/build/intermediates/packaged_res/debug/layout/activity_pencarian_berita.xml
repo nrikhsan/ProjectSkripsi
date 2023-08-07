@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="@color/background_color"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.activity.PencarianBeritaActivity"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <com.google.android.material.appbar.MaterialToolbar
+        android:id="@+id/toolbarPencarianBerita"
+        android:background="@color/green"
+        android:theme="@style/custom_toolbar_pencarian_berita"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <androidx.appcompat.widget.SearchView
+            android:id="@+id/searchBerita"
+            android:background="@drawable/bg_pencarian_berita"
+            app:iconifiedByDefault="false"
+            app:queryHint="Cari berita..."
+            android:paddingStart="-5dp"
+            android:paddingEnd="0dp"
+            android:layout_marginEnd="25dp"
+            app:queryBackground="@android:color/transparent"
+            android:layout_width="match_parent"
+            android:layout_height="35dp"/>
+
+    </com.google.android.material.appbar.MaterialToolbar>
+
+    <include
+        android:id="@+id/layout_berita_pencarian"
+        layout="@layout/layout_berita_pencarian"/>
+
+</LinearLayout>
